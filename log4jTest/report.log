@@ -1,0 +1,10 @@
+2    [main] DEBUG com.vaannila.report.SampleReport  - Sample debug message
+2    [main] INFO  com.vaannila.report.SampleReport  - Sample info message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+2    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message
+1    [main] DEBUG com.vaannila.report.SampleReport  - Sample debug message
+1    [main] INFO  com.vaannila.report.SampleReport  - Sample info message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+2    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message

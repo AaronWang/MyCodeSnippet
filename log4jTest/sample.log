@@ -1,0 +1,36 @@
+1    [main] WARN  log4jTest.LogTest  - Warn Message!
+1    [main] ERROR log4jTest.LogTest  - Error Message!
+1    [main] FATAL log4jTest.LogTest  - Fatal Message!
+1    [main] WARN  com.vaannila.admin.SampleAdmin  - Sample warn message
+1    [main] ERROR com.vaannila.admin.SampleAdmin  - Sample error message
+1    [main] FATAL com.vaannila.admin.SampleAdmin  - Sample fatal message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+2    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message
+1    [main] WARN  log4jTest.LogTest  - Warn Message!
+1    [main] ERROR log4jTest.LogTest  - Error Message!
+1    [main] FATAL log4jTest.LogTest  - Fatal Message!
+1    [main] WARN  com.vaannila.admin.SampleAdmin  - Sample warn message
+1    [main] ERROR com.vaannila.admin.SampleAdmin  - Sample error message
+2    [main] FATAL com.vaannila.admin.SampleAdmin  - Sample fatal message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+2    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message
+1    [main] WARN  com.vaannila.admin.SampleAdmin  - Sample warn message
+1    [main] ERROR com.vaannila.admin.SampleAdmin  - Sample error message
+1    [main] FATAL com.vaannila.admin.SampleAdmin  - Sample fatal message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+2    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message
+1    [main] WARN  com.vaannila.admin.SampleAdmin  - Sample warn message
+1    [main] ERROR com.vaannila.admin.SampleAdmin  - Sample error message
+1    [main] FATAL com.vaannila.admin.SampleAdmin  - Sample fatal message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+3    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message
+1    [main] WARN  com.vaannila.admin.SampleAdmin  - Sample warn message
+1    [main] ERROR com.vaannila.admin.SampleAdmin  - Sample error message
+1    [main] FATAL com.vaannila.admin.SampleAdmin  - Sample fatal message
+2    [main] WARN  com.vaannila.report.SampleReport  - Sample warn message
+2    [main] ERROR com.vaannila.report.SampleReport  - Sample error message
+2    [main] FATAL com.vaannila.report.SampleReport  - Sample fatal message

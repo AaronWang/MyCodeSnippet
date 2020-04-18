@@ -44,10 +44,15 @@ let g:workspace_autosave_always = 1
 "by default gitcommit,gitrebase,nerdtree are ignored, if uncomment this line, nerdtree will rise error
 " let g:workspace_autosave_ignore += ['NERD*']
 let g:workspace_persist_undo_history = 1
-let g:workspace_undodir='.undodir'
+" let g:workspace_undodir='.undodir'
 " after this setting , need to ToggleWorkspace at first empty file"
-let g:workspace_session_directory = $HOME . '/.vim/workspace/'
-" let g:workspace_session_directory = '~/.vim/sessions/'
+if has("gui_macvim")
+    let g:workspace_session_directory = $HOME . '/.vim/workspace/'
+endif
+if has("gui_win32")
+    let g:workspace_session_directory = $HOME . '\.vim\workspace\'
+endif
+
 " let g:workspace_session_name = 'Session.vim'
 "<leader>s新建session
 " nnoremap <leader>s :ToggleWorkspace<CR>

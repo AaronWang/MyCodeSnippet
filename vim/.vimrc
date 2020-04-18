@@ -120,7 +120,12 @@ let &t_SR.="\e[4 q" "SR = REPLACE mode
 " set the font
 " set guifont=Monaco:h12
 " set guifont=Source\ Code\ Pro\ for\ Powerline:h12
-set guifont=Hack\ Nerd\ Font:h12
+if has("gui_macvim")
+    set guifont=Hack\ Nerd\ Font:h12
+endif
+if has("gui_win32")
+    set guifont=Hack\ NF:h10
+endif
 
 " using powerline fonts
 " set rtp+=/usr/local/powerline/powerline/bindings/vim
@@ -146,19 +151,36 @@ Plug 'mattn/gist-vim'
 Plug 'mattn/webapi-vim'
 Plug 'chiel92/vim-autoformat'
 "auto generate tags"
-source ~/.vim/vimPlugins/vim-gutentags.vim
-source ~/.vim/vimPlugins/asyncrun.vim
-source ~/.vim/vimPlugins/supertab.vim " use tab to select auto autocomplete
-source ~/.vim/vimPlugins/vim-javascript.vim " javascript format
-source ~/.vim/vimPlugins/vdebug.vim
-source ~/.vim/vimPlugins/ale.vim
-source ~/.vim/vimPlugins/tagbar.vim
-source ~/.vim/vimPlugins/leaderf.vim
-source ~/.vim/vimPlugins/youcompleteme.vim
-source ~/.vim/vimPlugins/nerdcommenter.vim
-source ~/.vim/vimPlugins/nerdtree.vim
-source ~/.vim/vimPlugins/vim-airline.vim
-source ~/.vim/vimPlugins/others.vim
+if has("gui_macvim")
+    source ~/.vim/vimPlugins/vim-gutentags.vim
+    source ~/.vim/vimPlugins/asyncrun.vim
+    source ~/.vim/vimPlugins/supertab.vim " use tab to select auto autocomplete
+    source ~/.vim/vimPlugins/vim-javascript.vim " javascript format
+    source ~/.vim/vimPlugins/vdebug.vim
+    source ~/.vim/vimPlugins/ale.vim
+    source ~/.vim/vimPlugins/tagbar.vim
+    source ~/.vim/vimPlugins/leaderf.vim
+    source ~/.vim/vimPlugins/youcompleteme.vim
+    source ~/.vim/vimPlugins/nerdcommenter.vim
+    source ~/.vim/vimPlugins/nerdtree.vim
+    source ~/.vim/vimPlugins/vim-airline.vim
+    source ~/.vim/vimPlugins/others.vim
+endif
+if has("gui_win32")
+    source ~\.vim\vimPlugins\vim-gutentags.vim
+    source ~\.vim\vimPlugins\asyncrun.vim
+    source ~\.vim\vimPlugins\supertab.vim " use tab to select auto autocomplete
+    source ~\.vim\vimPlugins\vim-javascript.vim " javascript format
+    source ~\.vim\vimPlugins\vdebug.vim
+    source ~\.vim\vimPlugins\ale.vim
+    source ~\.vim\vimPlugins\tagbar.vim
+    source ~\.vim\vimPlugins\leaderf.vim
+    source ~\.vim\vimPlugins\youcompleteme.vim
+    source ~\.vim\vimPlugins\nerdcommenter.vim
+    source ~\.vim\vimPlugins\nerdtree.vim
+    source ~\.vim\vimPlugins\vim-airline.vim
+    source ~\.vim\vimPlugins\others.vim
+endif
 " Initialize plugin system
 call plug#end()
 
@@ -167,13 +189,10 @@ augroup myVimrcAutoLoad
     au!
     " au BufWritePost .vimrc,_vimrc,vimrc,.gvimrc,_gvi:mrc,gvimrc so $MYVIMRC | if has('gui_running') | so $MYGVIMRC | endif
     autocmd BufWritePost $MYVIMRC source $MYVIMRC |AirlineRefresh|redraw
+if has("gui_win32")
+    autocmd BufWritePost $HOME.'\.vim\.vimrc' source $HOME.'\.vim\.vimrc' |AirlineRefresh|redraw
+endif
     autocmd BufWritePost $MYGVIMRC if has('gui_running')&& filereadable($MYGVIMRC) | so $MYGVIMRC | AirlineRefresh|endif | redraw
 
 augroup END
-
-
-
-
-
-
 

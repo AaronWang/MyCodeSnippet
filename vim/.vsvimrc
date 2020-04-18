@@ -1,0 +1,8 @@
+:set ignorecase
+":set hlsearch
+":set nocompatible
+":set noundofile
+":set nobackup
+"共享windows 剪切板
+:set clipboard=unnamed,unamedplus
+

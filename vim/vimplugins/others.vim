@@ -73,11 +73,11 @@ Plug 'tpope/vim-surround'
 " install nerd font in terminal,
 Plug 'ryanoasis/vim-devicons'
 
-Plug 'airblade/vim-rooter'
-let g:rooter_change_directory_for_non_project_files = 'current'
-let g:rooter_patterns = ['Rakefile','.git', '.git/','.git\','.root','.root/','.root\','.project/','.project\','.svn/']
-let g:rooter_use_lcd = 1
-let g:rooter_silent_chdir = 1
+" Plug 'airblade/vim-rooter'
+" let g:rooter_change_directory_for_non_project_files = 'current'
+" let g:rooter_patterns = ['Rakefile','.git', '.git/','.git\','.root','.root/','.root\','.project/','.project\','.svn/']
+" let g:rooter_use_lcd = 1
+" let g:rooter_silent_chdir = 1
 
 " :Bdelete  close the file and key the window open,so it used to keep vim layout doesn't change
 Plug 'moll/vim-bbye'

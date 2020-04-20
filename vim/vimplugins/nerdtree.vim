@@ -6,7 +6,8 @@ Plug 'xuyuanp/nerdtree-git-plugin'
 Plug 'preservim/nerdtree'
 let NERDTreeShowHidden=1
 " auto open nerdtree, no need <F3>
-map <F3> :NERDTreeMirror<CR>
+" share nerdtree between tabs
+" map <F3> :NERDTreeMirror<CR>
 map <F3> :NERDTreeToggle<CR>
 " map <F4> :NERDTreeFind<CR>
 " map <F3> :NERDTreeFocus<CR>
@@ -20,7 +21,8 @@ endfunction
 
 " if don't do counting, <F3> will start two windows with different root
 " directory, the reason may cause by nerdtree initialization
-let g:nerdTreeCount = 0
+" let g:nerdTreeCount = 0
+
 function! s:syncTreeRoot()
     let t:result = exists("t:NERDTreeBufName") && (bufwinnr(t:NERDTreeBufName) != -1)
     if( &modifiable && t:result && strlen(expand('%')) > 8 && g:nerdTreeCount >2)
@@ -59,11 +61,12 @@ function! s:syncTree()
   " endif
 endfunction
 
-augroup nerdtreeAuto
-    au!
-    autocmd BufEnter * call s:syncTreeRoot()
+" augroup nerdtreeAuto
+    " au!
+    " autocmd BufEnter * call s:syncTreeRoot()
+
     " autocmd BufEnter * call s:syncTree()
-augroup end
+" augroup end
 
 " autocmd BufEnter * if s:isNTOpen() && &modifiable && bufname('%') !~# 'NERD_tree_'| cd %:p:h | NERDTreeCWD| wincmd p | endif
 " echom getcwd()
@@ -71,4 +74,5 @@ augroup end
 " autocmd BufEnter * if s:isNTOpen() && &modifiable && bufname('%') !~# 'NERD_tree_' | endif
 "
 "back to nerdtree
-nmap nt :NERDTreeFocus<cr>
+"
+" nmap nt :NERDTreeFocus<cr>

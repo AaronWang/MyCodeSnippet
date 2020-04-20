@@ -27,15 +27,16 @@ function! s:syncTreeRoot()
         let t:nerdTreeRoot = g:NERDTree.ForCurrentTab().getRoot().path.str()
         " echom "current nerdtreeroot : ".t:nerdTreeRoot."  current vim cwd : ".getcwd()
       "key nerdtree root same with vim  pwd
-        if( t:nerdTreeRoot != getcwd())
-            NERDTreeCWD
-            wincmd p
-        endif
+        " if( t:nerdTreeRoot != getcwd())
+        "     NERDTreeCWD
+        "     wincmd p
+        " endif
         "-----------------
-       if s:isInProjectPWD()
-            NERDTreeFind
-            wincmd p
-       endif
+        "
+       " if s:isInProjectPWD()
+       "      NERDTreeFind
+       "      wincmd p
+       " endif
     endif
     if(t:result && strlen(expand('%')) > 8 && g:nerdTreeCount<10)
         let g:nerdTreeCount+=1

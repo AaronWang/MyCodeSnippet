@@ -120,12 +120,7 @@ let &t_SR.="\e[4 q" "SR = REPLACE mode
 " set the font
 " set guifont=Monaco:h12
 " set guifont=Source\ Code\ Pro\ for\ Powerline:h12
-if has("gui_macvim")
-    set guifont=Hack\ Nerd\ Font:h12
-endif
-if has("gui_win32")
-    set guifont=Hack\ NF:h10
-endif
+set guifont=Hack\ Nerd\ Font:h12
 
 " using powerline fonts
 " set rtp+=/usr/local/powerline/powerline/bindings/vim
@@ -150,7 +145,6 @@ Plug 'junegunn/fzf.vim'
 Plug 'mattn/gist-vim'
 Plug 'mattn/webapi-vim'
 Plug 'chiel92/vim-autoformat'
-Plug 'OmniSharp/omnisharp-vim'
 "auto generate tags"
 if has("gui_macvim")
     source ~/.vim/vimPlugins/vim-gutentags.vim
@@ -190,10 +184,13 @@ augroup myVimrcAutoLoad
     au!
     " au BufWritePost .vimrc,_vimrc,vimrc,.gvimrc,_gvi:mrc,gvimrc so $MYVIMRC | if has('gui_running') | so $MYGVIMRC | endif
     autocmd BufWritePost $MYVIMRC source $MYVIMRC |AirlineRefresh|redraw
-if has("gui_win32")
-    autocmd BufWritePost $HOME.'\.vim\.vimrc' source $HOME.'\.vim\.vimrc' |AirlineRefresh|redraw
-endif
     autocmd BufWritePost $MYGVIMRC if has('gui_running')&& filereadable($MYGVIMRC) | so $MYGVIMRC | AirlineRefresh|endif | redraw
 
 augroup END
+
+
+
+
+
+
 

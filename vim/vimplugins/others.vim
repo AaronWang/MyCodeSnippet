@@ -39,20 +39,22 @@ map F <Plug>Sneak_F
 " " Disable all session locking - I know what I'm doing :-).
 " let g:session_lock_enabled = 0
 
-Plug 'thaerkh/vim-workspace'
-let g:workspace_autosave_always = 1
+" Plug 'thaerkh/vim-workspace'
+" let g:workspace_autosave_always = 1
+"
 "by default gitcommit,gitrebase,nerdtree are ignored, if uncomment this line, nerdtree will rise error
 " let g:workspace_autosave_ignore += ['NERD*']
 "
 " let g:workspace_persist_undo_history = 1
 " let g:workspace_undodir='.undodir'
 " after this setting , need to ToggleWorkspace at first empty file"
-if has("gui_macvim")
-    let g:workspace_session_directory = $HOME . '/.vim/workspace/'
-endif
-if has("gui_win32")
-    let g:workspace_session_directory = $HOME . '\.vim\workspace\'
-endif
+
+" if has("gui_macvim")
+"     let g:workspace_session_directory = $HOME . '/.vim/workspace/'
+" endif
+" if has("gui_win32")
+"     let g:workspace_session_directory = $HOME . '\.vim\workspace\'
+" endif
 
 " let g:workspace_session_name = 'Session.vim'
 "<leader>s新建session
@@ -73,12 +75,12 @@ Plug 'tpope/vim-surround'
 " install nerd font in terminal,
 Plug 'ryanoasis/vim-devicons'
 
-" Plug 'airblade/vim-rooter'
-" let g:rooter_change_directory_for_non_project_files = 'current'
-" let g:rooter_patterns = ['Rakefile','.git', '.git/','.git\','.root','.root/','.root\','.project/','.project\','.svn/']
-" let g:rooter_use_lcd = 1
-" let g:rooter_silent_chdir = 1
+Plug 'airblade/vim-rooter'
+let g:rooter_change_directory_for_non_project_files = 'current'
+let g:rooter_patterns = ['Rakefile','.git', '.git/','.root','.root/','.project/','.svn/']
+let g:rooter_use_lcd = 1
+let g:rooter_silent_chdir = 1
 
 " :Bdelete  close the file and key the window open,so it used to keep vim layout doesn't change
-Plug 'moll/vim-bbye'
+" Plug 'moll/vim-bbye'
 

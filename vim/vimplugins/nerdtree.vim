@@ -21,24 +21,25 @@ endfunction
 
 " if don't do counting, <F3> will start two windows with different root
 " directory, the reason may cause by nerdtree initialization
-" let g:nerdTreeCount = 0
+" 我自己定义的
+let g:nerdTreeCount = 0
 
 function! s:syncTreeRoot()
     let t:result = exists("t:NERDTreeBufName") && (bufwinnr(t:NERDTreeBufName) != -1)
-    if( &modifiable && t:result && strlen(expand('%')) > 8 && g:nerdTreeCount >2)
+    if( &modifiable && t:result && strlen(expand('%')) > 2 && g:nerdTreeCount >2)
         let t:nerdTreeRoot = g:NERDTree.ForCurrentTab().getRoot().path.str()
         " echom "current nerdtreeroot : ".t:nerdTreeRoot."  current vim cwd : ".getcwd()
       "key nerdtree root same with vim  pwd
-        " if( t:nerdTreeRoot != getcwd())
-        "     NERDTreeCWD
-        "     wincmd p
-        " endif
+        if( t:nerdTreeRoot != getcwd())
+            NERDTreeCWD
+            wincmd p
+        endif
         "-----------------
         "
-       " if s:isInProjectPWD()
-       "      NERDTreeFind
-       "      wincmd p
-       " endif
+       if s:isInProjectPWD()
+            NERDTreeFind
+            wincmd p
+       endif
     endif
     if(t:result && strlen(expand('%')) > 8 && g:nerdTreeCount<10)
         let g:nerdTreeCount+=1
@@ -61,12 +62,12 @@ function! s:syncTree()
   " endif
 endfunction
 
-" augroup nerdtreeAuto
-    " au!
-    " autocmd BufEnter * call s:syncTreeRoot()
+augroup nerdtreeAuto
+    au!
+    autocmd BufEnter * call s:syncTreeRoot()
 
     " autocmd BufEnter * call s:syncTree()
-" augroup end
+augroup end
 
 " autocmd BufEnter * if s:isNTOpen() && &modifiable && bufname('%') !~# 'NERD_tree_'| cd %:p:h | NERDTreeCWD| wincmd p | endif
 " echom getcwd()
@@ -75,4 +76,4 @@ endfunction
 "
 "back to nerdtree
 "
-" nmap nt :NERDTreeFocus<cr>
+nmap nt :NERDTreeFocus<cr>

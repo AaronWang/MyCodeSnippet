@@ -150,6 +150,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'mattn/gist-vim'
 Plug 'mattn/webapi-vim'
 Plug 'chiel92/vim-autoformat'
+Plug 'OmniSharp/omnisharp-vim'
 "auto generate tags"
 if has("gui_macvim")
     source ~/.vim/vimPlugins/vim-gutentags.vim

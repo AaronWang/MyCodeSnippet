@@ -1,6 +1,8 @@
 " :help keycodes :map   :help <C-   control键
 " <leader>  按键 \
 :sy on "语法加亮
+"自动选择维诺健类型"
+:filetype on 
 " :set wrap linebreak nolist
 " :set formatoptions=l "Keeps the visual textwidth but doesn't add new line in insert mode
 :set textwidth=0 " stop split line automatically"
@@ -39,6 +41,8 @@ set bufhidden=hide
 :set incsearch
 :set mouse=a   "激活鼠标
 :set foldmethod=syntax   "设置折叠，indent,    zo或hl左右 打开折叠，zc 折叠
+"打开文件是默认不折叠代码
+:set foldlevelstart=99
 " :set tags =./.tags,.tags "exuberant-ctags"
 " .tags.d/*.ctags "Universal-ctags"
 :set tags =./.tags,.tags,./.tags.d/*.ctags,.tags.d/*.ctags,~/.cache/tags
@@ -186,11 +190,10 @@ augroup myVimrcAutoLoad
     autocmd BufWritePost $MYVIMRC source $MYVIMRC |AirlineRefresh|redraw
     autocmd BufWritePost $MYGVIMRC if has('gui_running')&& filereadable($MYGVIMRC) | so $MYGVIMRC | AirlineRefresh|endif | redraw
 
+    "auto set .conf filetype
+    " autocmd BufRead,BufNewFile *.config setf dosini
+    autocmd BufRead,BufNewFile *.config setf apache 
 augroup END
-
-
-
-
 
 
 

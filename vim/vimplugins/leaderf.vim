@@ -18,6 +18,7 @@ let g:Lf_ShortcutF = '<c-p>'
 "
 " For GUI vim, the icon font can be specify like this, for example
 " let g:Lf_DevIconsFont = "DejaVuSansMono Nerd Font Mono"
+let g:Lf_DevIconsFont = "Hack\ Nerd\ Font"
 " If needs
 
 " let g:Lf_StlSeparator = { 'left': '', 'right': '', 'font': '' }

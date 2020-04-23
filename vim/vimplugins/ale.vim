@@ -39,6 +39,7 @@ let g:airline#extensions#ale#enabled = 1
 " go to next error
 " nmap <silent> <C-k> <Plug>(ale_previous_wrap)
 nmap <F2> <Plug>(ale_next_wrap)
+nmap <D-CR> :ALEFix<CR>
 " let g:ale_sign_error = ">>"
 " let g:ale_sign_warning = '--'
 " Show 5 lines of errors (default: 10)

@@ -7,7 +7,7 @@
 " :set formatoptions=l "Keeps the visual textwidth but doesn't add new line in insert mode
 :set textwidth=0 " stop split line automatically"
 :set number "设置行号
-":set relativenumber
+:set relativenumber
 ":set nonumber "取消显示行数
 :set ff=unix
 :set autoindent   "继承前一行的缩进方式，特别适用于多行注释

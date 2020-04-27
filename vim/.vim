@@ -50,8 +50,8 @@ set bufhidden=hide
 :set signcolumn=yes
 :set sessionoptions-=blank "doesnot store/restore empty buffer to sesison"
 " f/b page, up/down half page
-nmap gu <C-u>
-vmap gu <C-u>
+nmap gk <C-u>
+vmap gk <C-u>
 nmap gj <C-d>
 vmap gj <C-d>
 nmap gf <C-f>
@@ -149,6 +149,9 @@ Plug 'junegunn/fzf.vim'
 Plug 'mattn/gist-vim'
 Plug 'mattn/webapi-vim'
 Plug 'chiel92/vim-autoformat'
+Plug 'omnisharp/omnisharp-vim'
+Plug 'oranget/vim-csharp'
+
 "auto generate tags"
 if has("gui_macvim")
     source ~/.vim/vimPlugins/vim-gutentags.vim

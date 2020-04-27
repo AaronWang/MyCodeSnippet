@@ -1,4 +1,6 @@
 
+Plug 'mhinz/vim-startify'
+Plug 'ryanoasis/vim-devicons'
 Plug 'mbbill/fencview' "自动编码插件
 
 Plug 'raimondi/delimitmate' " auto quotes,parenthesis,brackets

@@ -5,6 +5,8 @@ nmap cc <leader>cc
 vmap cc <leader>cc
 nmap cu <leader>cu
 vmap cu <leader>cu
+nmap <D-/> <leader>c<Space>
+vmap <D-/> <leader>c<Space>
 " nerdcommenter 设置
 " Add spaces after comment delimiters by default
 let g:NERDSpaceDelims = 1

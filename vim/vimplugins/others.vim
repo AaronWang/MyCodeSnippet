@@ -6,7 +6,9 @@ Plug 'mbbill/fencview' "自动编码插件
 Plug 'raimondi/delimitmate' " auto quotes,parenthesis,brackets
 Plug 'wesq3/vim-windowswap' "swap windows without change layout <leader>ww
 Plug 'tpope/vim-repeat' " Make sure you use single quotes
-Plug 'easymotion/vim-easymotion'
+
+" 使用 sneak 跳转替换easymotion
+" Plug 'easymotion/vim-easymotion'
 
 Plug 'elzr/vim-json' " json highlighter
 "automactive switch input method

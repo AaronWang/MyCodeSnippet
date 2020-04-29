@@ -1,13 +1,17 @@
 " :help keycodes :map   :help <C-   control键
 " <leader>  按键 \
 :sy on "语法加亮
+" :set noerrorbells  "no error sound,  default: set errorbells"
+" use a visual bell instead of beeping
+:set vb t_vb=
+
 "自动选择维诺健类型"
 :filetype on 
 " :set wrap linebreak nolist
 " :set formatoptions=l "Keeps the visual textwidth but doesn't add new line in insert mode
 :set textwidth=0 " stop split line automatically"
 :set number "设置行号
-:set relativenumber
+" :set relativenumber
 ":set nonumber "取消显示行数
 :set ff=unix
 :set autoindent   "继承前一行的缩进方式，特别适用于多行注释
@@ -73,7 +77,9 @@ nmap <right> :vertical resize+5<CR>
 "th tl move to left/right tab
 nmap th gT
 nmap tl gt
-
+" show youCompleteMe , list
+nmap <D-f> /
+map <D-F> :Rg<CR>
 
 " go to privous active tab
 augroup goPreviousTab

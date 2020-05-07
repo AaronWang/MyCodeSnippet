@@ -1,0 +1,63 @@
+{
+  "title": "Right Copy",
+  "rules": [
+    {
+      "description": "Control Intert to Command C",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+              "key_code": "insert",
+              "modifiers":{
+                  "mandatory":[
+                      "control"
+                  ]
+              }
+            },
+          "to": [
+            {
+            "key_code": "c",
+            "modifiers": "command"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Shift Insert to Command V",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+              "key_code": "insert",
+            "modifiers": {"mandatory":["shift"]}
+            },
+          "to": [
+            {
+            "key_code": "v",
+            "modifiers": "command"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Shift + Forward Delete to Command x",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+              "key_code": "delete_forward",
+            "modifiers": {"mandatory":["shift"]}
+            },
+          "to": [
+            {
+            "key_code": "x",
+            "modifiers": "command"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,6 +10,14 @@ Plug 'tpope/vim-repeat' " Make sure you use single quotes
 " 使用 sneak 跳转替换easymotion
 " Plug 'easymotion/vim-easymotion'
 
+Plug 'justinmk/vim-sneak'
+let g:sneak#label = 1
+"change to multiline model
+map f <Plug>Sneak_f
+map F <Plug>Sneak_F
+" map t <Plug>Sneak_t
+" map T <Plug>Sneak_T
+
 Plug 'elzr/vim-json' " json highlighter
 "automactive switch input method
 Plug 'rlue/vim-barbaric'
@@ -26,14 +34,6 @@ let g:barbaric_timeout = -1
 Plug 'yuttie/comfortable-motion.vim'
 let g:comfortable_motion_scroll_down_key = "j"
 let g:comfortable_motion_scroll_up_key = "k"
-
-Plug 'justinmk/vim-sneak'
-let g:sneak#label = 1
-"change to multiline model
-map f <Plug>Sneak_f
-map F <Plug>Sneak_F
-" map t <Plug>Sneak_t
-" map T <Plug>Sneak_T
 
 " " 保存vim退出时的保存session tab
 " Plug 'xolox/vim-misc'

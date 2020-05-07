@@ -1,0 +1,110 @@
+
+" use a visual bell instead of beeping
+:set vb t_vb=
+:set ts=4    "为文本输入设置 set tabstop=4   （tab） 为4个空格
+:set tabstop=4
+:set softtabstop=4
+:set shiftwidth=4   " 设置之后 shift +  <> 缩进 4个 空格
+:set sw=4  "缩进尺寸为4个空格
+
+:set expandtab    "expandtab 缩进用空格来表示，noexpandtab 则是用制表符表示一个缩进。
+:set ignorecase  "搜索忽略大小写  ":set smartcase   "如果有一个大写字母，自动切换到case sensitive
+:set nocompatible     "关闭兼容模式,  兼容老版本vi
+:set nobackup
+"不要生成swap文件，当buffer被丢弃的时候隐藏它
+set bufhidden=hide
+:set noswapfile
+:set noundofile "去除 .un~ 文件，persistent undo 功能。关闭文件再打开，还可以undo
+:set laststatus=2      "2显示 状态栏，1 不显示状态栏
+
+:set encoding=utf-8 "设置vim编辑状态的编码方式
+:set fileencoding=utf-8 "设置文件保存，编码方式，必须与encoding不同,如果为空，默认使用encoding的值
+
+
+:set hlsearch   "搜索时高亮，# 高亮当前单词
+"在搜索时，输入的词句的逐字符高亮
+:set incsearch
+:set foldlevelstart=99
+nmap gk <C-u>
+vmap gk <C-u>
+nmap gj <C-d>
+vmap gj <C-d>
+nmap gf <C-f>
+vmap gf <C-f>
+nmap gb <C-b>
+vmap gb <C-b>
+" map wutf to w ++utf-8 %  convert file code to utf-8  <bar>:e!  = |:e! reload file
+cmap wu w!<Space>++enc=utf-8<Space>%<cr><Bar>:e!<cr>
+" switch window
+nmap wh <C-W>h
+nmap wj <C-W>j
+nmap wk <C-W>k
+nmap wl <C-W>l
+nmap wp <C-W>p
+nmap <up> :res -5<CR>
+nmap <down> :res +5<CR>
+nmap <left> :vertical resize-5<CR>
+nmap <right> :vertical resize+5<CR>
+"th tl move to left/right tab
+nmap th gT
+nmap tl gt
+" go to privous active tab
+augroup goPreviousTab
+    if !exists('g:Lasttab')
+        let g:Lasttab = 1
+        let g:Lasttab_backup = 1
+    endif
+    autocmd! TabLeave * let g:Lasttab_backup = g:Lasttab | let g:Lasttab = tabpagenr()
+    autocmd! TabClosed * let g:Lasttab = g:Lasttab_backup
+    nmap tp :exe "tabn ".g:Lasttab<CR>
+augroup END
+
+:set clipboard=unnamed,unnamedplus  "共享 windows 剪切板
+" :set t_Co=256
+" Set extra options when running in GUI mode
+if has("gui_running")
+    set guioptions-=T
+    set guioptions-=e
+    set t_Co=256
+    set guitablabel=%M\ %t
+endif
+
+"Cursor settings:
+"  1 -> blinking block
+"  2 -> solid block
+"  3 -> blinking underscore
+"  4 -> solid underscore
+"  5 -> blinking vertical bar
+"  6 -> solid vertical bar
+let &t_SI.="\e[5 q" "SI = INSERT mode
+let &t_SR.="\e[4 q" "SR = REPLACE mode
+" let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
+:set guicursor=a:blinkon0
+set guifont=Hack\ Nerd\ Font:h12
+" :source ~/.vimrc
+"
+" for ideavim only
+:set keep-english-in-normal
+" usage 
+:set easymotion
+nmap f <Plug>(easymotion-f)
+nmap F <Plug>(easymotion-F)
+nmap s <Plug>(easymotion-s)
+
+"AceJump   ctrl+; 输入跳转的字符
+
+
+" usage ys,ds,cs, S 
+:set surround
+
+"usage 
+" :set multiple-cursors
+"
+" usage gr grr
+:set ReplaceWithRegister
+
+" usage aa ia
+:set argtextobj
+
+"usage ae   ie
+:set textobj-entire 

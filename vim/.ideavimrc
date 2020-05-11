@@ -87,9 +87,10 @@ set guifont=Hack\ Nerd\ Font:h12
 :set keep-english-in-normal
 " usage 
 :set easymotion
-nmap f <Plug>(easymotion-f)
-nmap F <Plug>(easymotion-F)
+" nmap f <Plug>(easymotion-f)
+" nmap F <Plug>(easymotion-F)
 nmap s <Plug>(easymotion-s)
+nmap f <Plug>(easymotion-s)
 
 "AceJump   ctrl+; 输入跳转的字符
 

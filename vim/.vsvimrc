@@ -1,8 +1,9 @@
 :set ignorecase
-":set hlsearch
-":set nocompatible
-":set noundofile
-":set nobackup
+:set hlsearch
+:set nocompatible
+:set noundofile
+:set nobackup
 "共享windows 剪切板
 :set clipboard=unnamed,unamedplus
+:set ignorecase  "搜索忽略大小写  ":set smartcase   "如果有一个大写字母，自动切换到case sensitive
 

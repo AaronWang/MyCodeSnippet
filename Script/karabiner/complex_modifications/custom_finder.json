@@ -2,7 +2,7 @@
   "title": "Finder Custom",
   "rules": [
     {
-      "description": "Use Delete as Move to Trash",
+      "description": "Use Forward-Delete as Move to Trash",
       "manipulators": [
         {
           "type": "basic",

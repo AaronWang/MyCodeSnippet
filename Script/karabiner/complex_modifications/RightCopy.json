@@ -19,6 +19,14 @@
             "key_code": "c",
             "modifiers": "command"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.parallels\\.desktop\\.console"
+              ]
+            }
           ]
         }
       ]
@@ -37,7 +45,16 @@
             "key_code": "v",
             "modifiers": "command"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.parallels\\.desktop\\.console"
+              ]
+            }
           ]
+
         }
       ]
     },
@@ -55,7 +72,16 @@
             "key_code": "x",
             "modifiers": "command"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.parallels\\.desktop\\.console"
+              ]
+            }
           ]
+
         }
       ]
     }

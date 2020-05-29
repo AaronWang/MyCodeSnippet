@@ -3,7 +3,7 @@
  *
  * [832] Flipping an Image
  */
-
+namespace flipandinvertimage{
 // @lc code=start
 public class Solution
 {
@@ -38,3 +38,4 @@ public class Solution
 }
 // @lc code=end
 
+}

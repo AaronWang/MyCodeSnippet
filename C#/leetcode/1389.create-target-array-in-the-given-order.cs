@@ -1,9 +1,10 @@
+using System.Collections.Generic;
 /*
  * @lc app=leetcode id=1389 lang=csharp
  *
  * [1389] Create Target Array in the Given Order
  */
-
+namespace createtargetarray{
 // @lc code=start
 public class Solution
 {
@@ -19,3 +20,4 @@ public class Solution
 }
 // @lc code=end
 
+}

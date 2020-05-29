@@ -3,7 +3,7 @@
  *
  * [53] Maximum Subarray
  */
-
+namespace maxsubarray{
 // @lc code=start
 public class Solution
 {
@@ -24,3 +24,4 @@ public class Solution
 }
 // @lc code=end
 
+}

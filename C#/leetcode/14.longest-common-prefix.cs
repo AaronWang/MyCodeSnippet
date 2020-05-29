@@ -3,12 +3,13 @@
  *
  * [14] Longest Common Prefix
  */
-
+namespace longestcommonprefix{
 // @lc code=start
 public class Solution {
     public string LongestCommonPrefix(string[] strs) {
-        
+       return "" ;
     }
 }
 // @lc code=end
 
+}

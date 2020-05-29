@@ -1,9 +1,11 @@
+using System.Linq;
+using System.Collections.Generic;
 /*
  * @lc app=leetcode id=26 lang=csharp
  *
  * [26] Remove Duplicates from Sorted Array
  */
-
+namespace removeduplicates{
 // @lc code=start
 public class Solution {
     public int RemoveDuplicates(int[] nums) {
@@ -23,3 +25,4 @@ public class Solution {
 }
 // @lc code=end
 
+}

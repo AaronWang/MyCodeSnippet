@@ -1,9 +1,10 @@
+using System;
 /*
  * @lc app=leetcode id=1266 lang=csharp
  *
  * [1266] Minimum Time Visiting All Points
  */
-
+namespace mintimetovisitallpoints{
 // @lc code=start
 public class Solution
 {
@@ -17,4 +18,4 @@ public class Solution
     }
 }
 // @lc code=end
-
+}

@@ -1,5 +1,6 @@
 
 Plug 'mhinz/vim-startify'
+let g:startify_files_number=20
 Plug 'ryanoasis/vim-devicons'
 Plug 'mbbill/fencview' "自动编码插件
 
@@ -8,16 +9,23 @@ Plug 'wesq3/vim-windowswap' "swap windows without change layout <leader>ww
 Plug 'tpope/vim-repeat' " Make sure you use single quotes
 
 " 使用 sneak 跳转替换easymotion
-" Plug 'easymotion/vim-easymotion'
-
-Plug 'justinmk/vim-sneak'
-let g:sneak#label = 1
-"change to multiline model
-map f <Plug>Sneak_f
-map F <Plug>Sneak_F
+Plug 'easymotion/vim-easymotion'
+let g:EasyMotion_smartcase = 1
+map f <Plug>(easymotion-bd-f)
+map s <Plug>(easymotion-bd-f2)
+map  / <Plug>(easymotion-sn)
+omap / <Plug>(easymotion-tn)
+map  n <Plug>(easymotion-next)
+map  N <Plug>(easymotion-prev)
+" Plug 'justinmk/vim-sneak'
+" let g:sneak#label = 1
+" "change to multiline model
+" map f <Plug>Sneak_f
+" map F <Plug>Sneak_F
 
 " map t <Plug>Sneak_t
 " map T <Plug>Sneak_T
+
 
 Plug 'elzr/vim-json' " json highlighter
 "automactive switch input method

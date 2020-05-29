@@ -80,7 +80,7 @@ let &t_SI.="\e[5 q" "SI = INSERT mode
 let &t_SR.="\e[4 q" "SR = REPLACE mode
 " let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
 :set guicursor=a:blinkon0
-set guifont=Hack\ Nerd\ Font:h12
+:set guifont=Hack\ Nerd\ Font:h12
 " :source ~/.vimrc
 "
 " for ideavim only
@@ -109,3 +109,4 @@ nmap f <Plug>(easymotion-s)
 
 "usage ae   ie
 :set textobj-entire 
+

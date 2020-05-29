@@ -3,7 +3,7 @@
  *
  * [1304] Find N Unique Integers Sum up to Zero
  */
-
+namespace sumzero{
 // @lc code=start
 public class Solution
 {
@@ -30,3 +30,4 @@ public class Solution
 }
 // @lc code=end
 
+}

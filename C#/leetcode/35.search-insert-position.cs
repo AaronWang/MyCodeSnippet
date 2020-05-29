@@ -3,7 +3,7 @@
  *
  * [35] Search Insert Position
  */
-
+namespace searchinsert{
 // @lc code=start
 public class Solution {
     public int SearchInsert(int[] nums, int target) {
@@ -29,3 +29,4 @@ public class Solution {
 }
 // @lc code=end
 
+}

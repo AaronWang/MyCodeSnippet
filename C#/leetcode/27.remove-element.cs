@@ -3,7 +3,7 @@
  *
  * [27] Remove Element
  */
-
+namespace removeelement{
 // @lc code=start
 public class Solution {
     public int RemoveElement(int[] nums, int val) {
@@ -21,3 +21,4 @@ public class Solution {
 }
 // @lc code=end
 
+}

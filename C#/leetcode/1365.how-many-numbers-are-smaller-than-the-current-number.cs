@@ -1,9 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 /*
  * @lc app=leetcode id=1365 lang=csharp
  *
  * [1365] How Many Numbers Are Smaller Than the Current Number
  */
-
+namespace smallernumbersthancurrent{
 // @lc code=start
 public class Solution
 {
@@ -18,7 +21,6 @@ public class Solution
                 else if (nums[i]>nums[j])
                 result[i]++;
         return result;
-
         SortedList sorted = new SortedList();
         for (int i = 0; i < nums.Length; i++)
             if (!sorted.Contains(nums[i]))
@@ -31,3 +33,4 @@ public class Solution
 }
 // @lc code=end
 
+}

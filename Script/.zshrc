@@ -118,6 +118,7 @@ alias install='brew install'
 alias update='brew update'
 alias uninstall='brew uninstall'
 alias o='open .'
+alias vs='code'
 # [[ -s $(brew --prefix)/etc/autojump.bash ]] && . $(brew --prefix)/etc/autojump.bash
 # alias j='autojump'
 

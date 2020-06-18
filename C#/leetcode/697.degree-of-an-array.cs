@@ -11,10 +11,10 @@ namespace FindShortestSubArray
     // @lc code=start
     public class Solution
     {
-        public void MainTest(string[] args)
-        {
-            FindShortestSubArray(new int[] { 1, 2, 2, 3, 1 });
-        }
+        // public void MainTest(string[] args)
+        // {
+        //     FindShortestSubArray(new int[] { 1, 2, 2, 3, 1 });
+        // }
         public int FindShortestSubArray(int[] nums)
         {
             int numberMaxFrequence = 1;

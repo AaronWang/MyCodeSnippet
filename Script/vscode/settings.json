@@ -1,0 +1,69 @@
+{
+    "vim.useSystemClipboard": true,
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.preferredDarkColorTheme": "Default Light+",
+    "vim.vimrc.enable": true,
+    "workbench.activityBar.visible": true,
+    "window.closeWhenEmpty": true,
+    "vim.autoSwitchInputMethod.obtainIMCmd": "/usr/local/bin/xkbswitch -ge",
+    "vim.autoSwitchInputMethod.defaultIM": "Australian",
+    "vim.autoSwitchInputMethod.switchIMCmd": "/usr/local/bin/xkbswitch -se {im}",
+    "vim.autoSwitchInputMethod.enable": true,
+    "explorer.confirmDragAndDrop": false,
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.workspaceFolder": "/Users/xinwang/Documents/GitHub/MyCodeSnippet/C#/leetcode",
+    "leetcode.defaultLanguage": "csharp",
+    "leetcode.hint.commentDescription": false,
+    "sync.gist": "1e54c0da2e2d0e71396b941edcfa03bd",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'PowerlineSymbols'",
+    "explorer.confirmdelete": false,
+    "vim.hlsearch": true,
+    "vim.sneak": true,
+    "vim.sneakReplacesF": true,
+    "vim.sneakUseIgnorecaseAndSmartcase": true,
+    //set comment
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<leader>", "c", "c"],
+            "after": ["g", "c", "c"]
+        },
+        {
+            "before": ["f"],
+            "after": ["<leader>", "<leader>", "s"]
+        },
+        {
+            "before": ["s"],
+            "after": ["<leader>", "<leader>", "/"]
+        },
+        {
+            "before": ["<C-l>"],
+            "after": ["A", ";", "<Esc>"]
+        },
+        {
+            "before": ["<C-h>"],
+            "after": ["$", "x"]
+        }
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [],
+    "explorer.confirmDelete": false,
+    "leetcode.hint.commandShortcut": false,
+    "code-runner.defaultLanguage": "csharp",
+    "code-runner.executorMap": {
+        "csharp": "scriptcs -script"
+    },
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.commandLineModeKeyBindingsNonRecursive": [],
+    "vim.easymotion": true,
+    "vim.easymotionMarkerFontSize": "14",
+    "vim.commandLineModeKeyBindings": [],
+    "prettier.tabWidth": 4,
+    "debug.onTaskErrors": "showErrors",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.vim": "vimrc",
+        ".ideavimrc": "vimrc"
+    }
+}

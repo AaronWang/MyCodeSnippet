@@ -1,3 +1,4 @@
+using System;
 /*
  * @lc app=leetcode id=1154 lang=csharp
  *
@@ -10,7 +11,9 @@ namespace DayOfYea
     {
         public int DayOfYear(string date)
         {
-            return 0;
+            // DateTime dt = DateTime.Parse(date, System.Globalization.CultureInfo.InvariantCulture);
+            DateTime dt = DateTime.ParseExact(date, "yyyy-MM-dd", System.Globalization.CultureInfo.InvariantCulture);
+            return dt.DayOfYear;
         }
     }
     // @lc code=end

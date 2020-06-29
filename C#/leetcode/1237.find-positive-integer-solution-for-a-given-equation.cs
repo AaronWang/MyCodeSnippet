@@ -35,14 +35,14 @@ namespace FindSolution
             {
                 for (int y = 1; y <= z; y++)
                 {
-                    if (customfunction.f(x, y) == z)
-                    {
-                        IList<int> list = new List<int>();
-                        list.Add(x);
-                        list.Add(y);
-                        lists.Add(list);
-                        break;
-                    }
+                    // if (customfunction.f(x, y) == z)
+                    // {
+                    IList<int> list = new List<int>();
+                    list.Add(x);
+                    list.Add(y);
+                    lists.Add(list);
+                    break;
+                    // }
                 }
             }
             return lists;

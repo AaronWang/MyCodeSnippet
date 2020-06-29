@@ -16,9 +16,11 @@ namespace repeatedSubstringPattern
         public bool RepeatedSubstringPattern(string s)
         {
             //not working yet, check leetcode discussion
-            // string test = s + s;
-            // return test.Substring(1, test.Length - 1).Contains(s);
-
+            string test = s + s;
+            return test.Substring(1, test.Length - 2).Contains(s);
+            // abc ->  abcabc ->bcab  false
+            // aba -> abaaba -> baab false
+            // abab -> abababab ->bababa true
 
             string subString = "";
             for (int i = 0; i < s.Length / 2; i++)

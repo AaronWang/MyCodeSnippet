@@ -67,7 +67,8 @@ augroup goPreviousTab
     nmap tp :exe "tabn ".g:Lasttab<CR>
 augroup END
 
-set clipboard=unnamed,unnamedplus  "共享 windows 剪切板
+"set clipboard=unnamed,unnamedplus  "共享 windows 剪切板
+set clipboard+=unnamed "共享 windows 剪切板
 " :set t_Co=256
 " Set extra options when running in GUI mode
 if has("gui_running")
@@ -102,7 +103,6 @@ nmap f <Plug>(easymotion-s)
 
 "AceJump   ctrl+; 输入跳转的字符
 
-
 " usage ys,ds,cs, S 
 set surround
 
@@ -118,3 +118,4 @@ set argtextobj
 "usage ae   ie
 set textobj-entire 
 
+set ideajoin

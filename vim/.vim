@@ -1,4 +1,7 @@
 " :help keycodes :map   :help <C-   control键
+" <bslash><Esc><space><tab>
+"imap insert mode map ， vmap virtual map，nmap normal mode map
+"
 " <leader>  按键 \
 :sy on "语法加亮
 " :set noerrorbells  "no error sound,  default: set errorbells"

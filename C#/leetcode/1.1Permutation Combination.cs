@@ -4,9 +4,12 @@ using System.Linq;
 
 namespace PermutationCombination
 {
-    //Array.Fill();
     public class Algorithm
     {
+        // 排列公式 n个数中，取m个数的排列数， n!/(n-m)!
+        // 组合公式 n个数中，取m个数的组合数， n!/(m!(n-m)!)
+        // n!   n的阶乘
+
         //Permutation, with repitition
         public static IEnumerable<IEnumerable<T>> GetPermutationWithRepitition<T>(IEnumerable<T> list, int length)
         {

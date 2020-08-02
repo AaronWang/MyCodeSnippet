@@ -69,7 +69,9 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-syntax-highlighting zsh-autosuggestions autojump extract rand-quote vi-mode colored-man-pages sudo catimg)
+#
+# plugins=(git zsh-syntax-highlighting zsh-autosuggestions autojump extract rand-quote vi-mode colored-man-pages sudo catimg)
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions autojump extract vi-mode colored-man-pages sudo catimg)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -141,8 +143,10 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
   [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && . "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 
+
 # start quote and cowsay
-quote|cowsay
+# quote|cowsay
+
 # set flutter Path
 export PATH="$PATH:/Users/xinwang/Library/flutter/bin"
 

@@ -8,7 +8,7 @@ Plug 'raimondi/delimitmate' " auto quotes,parenthesis,brackets
 Plug 'wesq3/vim-windowswap' "swap windows without change layout <leader>ww
 Plug 'tpope/vim-repeat' " Make sure you use single quotes
 
-" 使用 sneak 跳转替换easymotion
+" 使用 easymotion跳转替换sneak 
 Plug 'easymotion/vim-easymotion'
 let g:EasyMotion_smartcase = 1
 map f <Plug>(easymotion-bd-f)
@@ -32,7 +32,7 @@ Plug 'elzr/vim-json' " json highlighter
 Plug 'rlue/vim-barbaric'
 Plug 'myshov/xkbswitch-macosx'
 " The input method for Normal mode (as defined by `xkbswitch -g` or `ibus engine`)
-let g:barbaric_default = 0
+let g:barbaric_default = 4
 " The scope where alternate input methods persist (buffer, window, tab, global)
 let g:barbaric_scope = 'buffer'
 " Forget alternate input method after n seconds in Normal mode (disabled by default)

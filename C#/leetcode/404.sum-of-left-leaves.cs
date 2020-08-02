@@ -1,3 +1,4 @@
+using System.ComponentModel.Design.Serialization;
 /*
  * @lc app=leetcode id=404 lang=csharp
  *
@@ -25,7 +26,9 @@ namespace SumOfLeftLeaves
     {
         public int SumOfLeftLeaves(TreeNode root)
         {
-            return 0;
+            if (root == null) return 0;
+            if (root.left != null && root.left.right == null && root.left.left == null) return root.left.val + SumOfLeftLeaves(root.right);
+            return SumOfLeftLeaves(root.left) + SumOfLeftLeaves(root.right);
         }
     }
     // @lc code=end

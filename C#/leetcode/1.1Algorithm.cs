@@ -37,8 +37,6 @@ namespace Algorithm
                          from d4 in range
                          from d5 in range
                          select new { d1, d2, d3, d4, d5 };
-
-
             // DateTime.Parse();
             // DateTime.ParseExact();
 

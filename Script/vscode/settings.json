@@ -1,12 +1,11 @@
 {
     "vim.useSystemClipboard": true,
-    "workbench.colorTheme": "Quiet Light",
     "workbench.preferredDarkColorTheme": "Default Light+",
     "vim.vimrc.enable": true,
     "workbench.activityBar.visible": true,
     "window.closeWhenEmpty": true,
     "vim.autoSwitchInputMethod.obtainIMCmd": "/usr/local/bin/xkbswitch -ge",
-    "vim.autoSwitchInputMethod.defaultIM": "Australian",
+    "vim.autoSwitchInputMethod.defaultIM": "US",
     "vim.autoSwitchInputMethod.switchIMCmd": "/usr/local/bin/xkbswitch -se {im}",
     "vim.autoSwitchInputMethod.enable": true,
     "explorer.confirmDragAndDrop": false,
@@ -65,5 +64,7 @@
     "files.associations": {
         "*.vim": "vimrc",
         ".ideavimrc": "vimrc"
-    }
+    },
+    "workbench.colorTheme": "Quiet Light",
+    "vim.statusBarColors.surroundinputmode": ""
 }

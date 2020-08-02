@@ -1,8 +1,8 @@
 :set ignorecase
 :set hlsearch
-" :set nocompatible
-" :set noundofile
-" :set nobackup
+:set nocompatible
+:set noundofile
+:set nobackup
 "共享windows 剪切板
 :set clipboard=unnamed,unamedplus
 :set ignorecase  "搜索忽略大小写  ":set smartcase   "如果有一个大写字母，自动切换到case sensitive
@@ -15,13 +15,13 @@
 :set expandtab    "expandtab 缩进用空格来表示，noexpandtab 则是用制表符表示一个缩进。
 
 "不要生成swap文件，当buffer被丢弃的时候隐藏它
-" :set bufhidden=hide
-" :set noswapfile
-" :set noundofile "去除 .un~ 文件，persistent undo 功能。关闭文件再打开，还可以undo
+:set bufhidden=hide
+:set noswapfile
+:set noundofile "去除 .un~ 文件，persistent undo 功能。关闭文件再打开，还可以undo
 :set incsearch
-" :set foldmethod=syntax   "设置折叠，indent,    zo或hl左右 打开折叠，zc 折叠
+:set foldmethod=syntax   "设置折叠，indent,    zo或hl左右 打开折叠，zc 折叠
 "打开文件是默认不折叠代码
-" :set foldlevelstart=99
+:set foldlevelstart=99
 " f/b page, up/down half page
 nmap gk <C-u>
 vmap gk <C-u>
@@ -55,11 +55,4 @@ nmap tl gt
 " <C-A-L> format
 " nnoremap fm :vsc Edit.FormatDocument<CR>
 " vnoremap fm :vsc Edit.FormatSelection<CR>
-
-" PeasyMotion
-" nnoremap ; gS:vsc Tools.InvokePeasyMotion<CR>
-nmap s gS:vsc Tools.InvokePeasyMotionTwoCharJump<CR>
-"
-"AceJump
-nmap f gS:vsc Tools.InvokeAceJumpCommand<CR>
 

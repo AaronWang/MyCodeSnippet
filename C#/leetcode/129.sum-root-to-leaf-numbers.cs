@@ -28,10 +28,10 @@ namespace SumNumbers
 
         // [4,9,0,5,1]
         // 1026
-        public void MainTest(string[] args)
-        {
-            SumNumbers(new TreeNode(4, new TreeNode(9, new TreeNode(5), new TreeNode(1)), new TreeNode(0)));
-        }
+        // public void MainTest(string[] args)
+        // {
+        //     SumNumbers(new TreeNode(4, new TreeNode(9, new TreeNode(5), new TreeNode(1)), new TreeNode(0)));
+        // }
         public int SumNumbers(TreeNode root)
         {
             return LeafNumber(0, root);

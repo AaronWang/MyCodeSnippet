@@ -23,9 +23,27 @@ namespace PathSum
     // @lc code=start
     public class Solution
     {
+        public void MainTest(string[] args)
+        {
+            PathSum(new TreeNode(5, new TreeNode(3, new TreeNode(3), new TreeNode(-2)), new TreeNode(2, null, new TreeNode(1))), 8);
+        }
         public int PathSum(TreeNode root, int sum)
         {
-            return 0;
+            if (root == null) return 0;
+            int count = 0;
+            if (root.val - sum == 0) count++;
+            if (root.left != null)
+            {
+                count += PathSum(root.left, sum - root.val);
+                count += PathSum(root.left, sum);
+            }
+            if (root.right != null)
+            {
+                count += PathSum(root.right, sum - root.val);
+                count += PathSum(root.right, sum);
+            }
+
+            return count;
         }
     }
     // @lc code=end

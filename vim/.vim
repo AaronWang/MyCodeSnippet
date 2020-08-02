@@ -30,7 +30,7 @@
 :set nocompatible     "关闭兼容模式,  兼容老版本vi
 :set nobackup
 "不要生成swap文件，当buffer被丢弃的时候隐藏它
-set bufhidden=hide
+:set bufhidden=hide
 :set noswapfile
 :set noundofile "去除 .un~ 文件，persistent undo 功能。关闭文件再打开，还可以undo
 :set laststatus=2      "2显示 状态栏，1 不显示状态栏

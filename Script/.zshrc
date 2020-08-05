@@ -121,6 +121,7 @@ alias update='brew update'
 alias uninstall='brew uninstall'
 alias o='open .'
 alias vs='code'
+alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 # [[ -s $(brew --prefix)/etc/autojump.bash ]] && . $(brew --prefix)/etc/autojump.bash
 # alias j='autojump'
 
@@ -150,3 +151,6 @@ export NVM_DIR="$HOME/.nvm"
 # set flutter Path
 export PATH="$PATH:$HOME/Library/flutter/bin"
 
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"

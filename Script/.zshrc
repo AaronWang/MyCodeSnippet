@@ -118,8 +118,10 @@ alias vi='open -a macvim'
 alias ra='ranger'
 alias install='brew install'
 alias update='brew update'
+alias upgrade='brew upgrade'
 alias uninstall='brew uninstall'
-alias o='open .'
+alias remove='brew remove'
+alias o='open'
 alias vs='code'
 alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 # [[ -s $(brew --prefix)/etc/autojump.bash ]] && . $(brew --prefix)/etc/autojump.bash
@@ -154,3 +156,11 @@ export PATH="$PATH:$HOME/Library/flutter/bin"
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
+
+# setup pyenv Path
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+
+

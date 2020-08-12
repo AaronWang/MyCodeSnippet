@@ -25,8 +25,15 @@ namespace GetMinimumDifference
     {
         public int GetMinimumDifference(TreeNode root)
         {
+            if(root ==null)return 0;
+
             return 0;
         }
+        public int Recursion(TreeNode root)
+        {
+            if (root == null) return;
+        }
+
     }
     // @lc code=end
 

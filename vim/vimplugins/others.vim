@@ -17,6 +17,12 @@ map  / <Plug>(easymotion-sn)
 omap / <Plug>(easymotion-tn)
 map  n <Plug>(easymotion-next)
 map  N <Plug>(easymotion-prev)
+" enable paste during search
+" EMCommandLineNoreMap \"\+gP <C-r>+ <CR>
+augroup easymotion-keymap | au!
+   au VimEnter * EMCommandLineNoreMap \"\+gP <C-r>+ <CR>
+augroup END
+
 " Plug 'justinmk/vim-sneak'
 " let g:sneak#label = 1
 " "change to multiline model

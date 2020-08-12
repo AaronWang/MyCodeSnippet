@@ -1,3 +1,4 @@
+
 " :help keycodes :map   :help <C-   control键
 " <bslash><Esc><space><tab>
 "imap insert mode map ， vmap virtual map，nmap normal mode map
@@ -114,8 +115,9 @@ endif
 ":cmap - Display command-line mode maps
 ":omap - Display operator pending mode maps
 "oo插入空白行,不进入编辑模式
-nnoremap o o<Esc>
-nnoremap O O<Esc>
+"nnoremap o o<Esc>
+"nnoremap O O<Esc>
+
 "For some reason, vim registers <C-/> as <C-_>
 
 "Cursor settings:
@@ -207,7 +209,7 @@ augroup myVimrcAutoLoad
     autocmd BufRead,BufNewFile *.config setf apache 
 augroup END
 
-
-
 au BufReadPost *.vimMac set syntax=vim
 au BufReadPost *.vimWin set syntax=vim
+
+

@@ -19,7 +19,7 @@ namespace TarjanAlgorithm
     }
     class Solution
     {
-        public void MainTest(string[] args)
+        public void MainTestTTT(string[] args)
         {
             main();
             Dictionary<Node, HashSet<Node>> graph = new Dictionary<Node, HashSet<Node>>();
@@ -66,7 +66,6 @@ namespace TarjanAlgorithm
             //recursion method for traversal graph
             // dfs(visited, graph, stack);
             TarjanEdge(4, graph);
-
         }
         // no direction graph
         // critical conection 割边/桥

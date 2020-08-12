@@ -66,5 +66,8 @@
         ".ideavimrc": "vimrc"
     },
     "workbench.colorTheme": "Quiet Light",
-    "vim.statusBarColors.surroundinputmode": ""
+    "vim.statusBarColors.surroundinputmode": "",
+    "vim.camelCaseMotion.enable": true,
+    "vim.easymotionMarkerForegroundColorOneChar": "Red",
+    "vim.easymotionMarkerForegroundColorTwoChar": "Red"
 }

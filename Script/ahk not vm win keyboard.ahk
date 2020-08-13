@@ -90,3 +90,5 @@
 !Right::send {End}
 !Left::send {Home}
 
+Capslock::Esc
+

@@ -1,11 +1,11 @@
 /*
- * @lc app=leetcode id=538 lang=csharp
+ * @lc app=leetcode id=1038 lang=csharp
  *
- * [538] Convert BST to Greater Tree
+ * [1038] Binary Search Tree to Greater Sum Tree
  */
-
-namespace ConvetBST
+namespace BstToGst
 {
+
     // Definition for a binary tree node.
     public class TreeNode
     {
@@ -24,14 +24,14 @@ namespace ConvetBST
     public class Solution
     {
         public int sum = 0;
-        public TreeNode ConvertBST(TreeNode root)
+        public TreeNode BstToGst(TreeNode root)
         {
+
             if (root == null) return root;
             RecursionSolution(root);
             return root;
         }
-        // [2,0,3,-4,1]
-        // [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
+
         public void RecursionSolution(TreeNode root)
         {
             if (root != null)

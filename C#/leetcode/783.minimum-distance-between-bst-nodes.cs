@@ -1,14 +1,15 @@
 /*
- * @lc app=leetcode id=530 lang=csharp
+ * @lc app=leetcode id=783 lang=csharp
  *
- * [530] Minimum Absolute Difference in BST
+ * [783] Minimum Distance Between BST Nodes
  */
+
+
 using System;
 
-namespace GetMinimumDifference
+namespace MinDiffInBST
 {
-
-    // Definition for a binary tree node.
+    //  Definition for a binary tree node.
     public class TreeNode
     {
         public int val;
@@ -25,10 +26,11 @@ namespace GetMinimumDifference
     // @lc code=start
     public class Solution
     {
-        public int GetMinimumDifference(TreeNode root)
+        public int MinDiffInBST(TreeNode root)
         {
             return Recursion(root);
         }
+
         public int Recursion(TreeNode root)
         {
             TreeNode smaller, bigger;
@@ -57,4 +59,5 @@ namespace GetMinimumDifference
         }
     }
     // @lc code=end
+
 }

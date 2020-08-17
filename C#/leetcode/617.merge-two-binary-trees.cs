@@ -5,7 +5,7 @@
  */
 namespace MergeTrees
 {
-    
+
     // Definition for a binary tree node.
     public class TreeNode
     {
@@ -25,9 +25,16 @@ namespace MergeTrees
     {
         public TreeNode MergeTrees(TreeNode t1, TreeNode t2)
         {
-            return null;
+            if (t1 == null && t2 == null) return null;
+            else if (t1 != null && t2 != null)
+            {
+                t1.val = t1.val + t2.val;
+                t1.left = MergeTrees(t1.left, t2.left);
+                t1.right = MergeTrees(t1.right, t2.right);
+                return t1;
+            }
+            else return t1 == null ? t2 : t1;
         }
     }
     // @lc code=end
-
 }

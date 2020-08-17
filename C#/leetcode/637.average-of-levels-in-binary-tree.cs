@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace AverageOfLevels
 {
-    
+
     // Definition for a binary tree node.
     public class TreeNode
     {
@@ -25,12 +25,30 @@ namespace AverageOfLevels
     // @lc code=start
     public class Solution
     {
+        public IList<double> list = new List<double>();
         public IList<double> AverageOfLevels(TreeNode root)
         {
-            IList<double> list = new List<double>();
+            List<TreeNode> roots = new List<TreeNode>();
+            roots.Add(root);
+            Average(roots);
             return list;
         }
-
+        public void Average(List<TreeNode> roots)
+        {
+            if (roots.Count == 0) return;
+            double total = 0;
+            List<TreeNode> subs = new List<TreeNode>();
+            foreach (TreeNode node in roots)
+            {
+                total += node.val;
+                if (node.left != null)
+                    subs.Add(node.left);
+                if (node.right != null)
+                    subs.Add(node.right);
+            }
+            list.Add(total / roots.Count);
+            Average(subs);
+        }
     }
     // @lc code=end
 

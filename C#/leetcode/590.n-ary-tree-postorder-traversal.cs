@@ -31,10 +31,21 @@ namespace Postorder
 
     public class Solution
     {
+        public IList<int> list = new List<int>();
         public IList<int> Postorder(Node root)
         {
-            IList<int> list = new List<int>();
+            BFS(root);
             return list;
+        }
+        public void BFS(Node root)
+        {
+            if (root == null) return;
+            else
+            {
+                foreach (Node sub in root.children)
+                    BFS(sub);
+                list.Add(root.val);
+            }
         }
     }
     // @lc code=end

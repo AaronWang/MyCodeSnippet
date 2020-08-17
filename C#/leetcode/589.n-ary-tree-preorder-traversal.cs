@@ -32,10 +32,21 @@ namespace Preorder
 
     public class Solution
     {
+        public IList<int> list = new List<int>();
         public IList<int> Preorder(Node root)
         {
-            IList<int> list = new List<int>();
+            // IList<int> list = new List<int>();
+            DFS(root);
             return list;
+        }
+        public void DFS(Node root)
+        {
+            if (root != null) list.Add(root.val);
+            else return;
+            foreach (Node sub in root.children)
+            {
+                DFS(sub);
+            }
         }
     }
     // @lc code=end

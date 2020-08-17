@@ -3,6 +3,8 @@
  *
  * [563] Binary Tree Tilt
  */
+using System;
+
 namespace FindTilt
 {
 
@@ -25,7 +27,13 @@ namespace FindTilt
     {
         public int FindTilt(TreeNode root)
         {
-            return 0;
+            if (root == null) return 0;
+            return Math.Abs(SumNode(root.left) - SumNode(root.right)) + FindTilt(root.left) + FindTilt(root.right);
+        }
+        public int SumNode(TreeNode root)
+        {
+            if (root == null) return 0;
+            else return root.val + SumNode(root.left) + SumNode(root.right);
         }
     }
     // @lc code=end

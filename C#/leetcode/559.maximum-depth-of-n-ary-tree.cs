@@ -1,3 +1,5 @@
+using System;
+using System.ComponentModel.Design.Serialization;
 /*
  * @lc app=leetcode id=559 lang=csharp
  *
@@ -32,7 +34,14 @@ namespace MaxDepth
     {
         public int MaxDepth(Node root)
         {
-            return 0;
+            if (root == null) return 0;
+            else
+            {
+                int maxDepth = 0;
+                foreach (Node n in root.children)
+                    maxDepth = Math.Max(maxDepth, MaxDepth(n));
+                return maxDepth + 1;
+            }
         }
     }
     // @lc code=end

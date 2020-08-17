@@ -25,7 +25,15 @@ namespace IsSubtree
     {
         public bool IsSubtree(TreeNode s, TreeNode t)
         {
-            return true;
+            if (s == null) return false;
+            else return SameTree(s, t) || IsSubtree(s.left, t) || IsSubtree(s.right, t);
+        }
+        public bool SameTree(TreeNode s, TreeNode t)
+        {
+            if (s == null && t == null) return true;
+            if (s != null && t != null && s.val == t.val && SameTree(s.left, t.left) && SameTree(s.right, t.right))
+                return true;
+            else return false;
         }
     }
     // @lc code=end

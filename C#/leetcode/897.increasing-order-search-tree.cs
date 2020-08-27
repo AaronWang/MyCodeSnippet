@@ -25,6 +25,27 @@ namespace InscreasingBST
     {
         public TreeNode IncreasingBST(TreeNode root)
         {
+            TreeNode tmp;
+            if (root == null) return null;
+            if (root.left != null)
+            {
+                //put root 5  to under 4's right subnode
+                tmp = root.left;
+                while (tmp.right != null)
+                {
+                    tmp = tmp.right;
+                }
+                tmp.right = root;
+                //change root;
+                tmp = root.left;
+                root.left = null;
+                root = tmp;
+                root = IncreasingBST(root);
+            }
+            if (root.right != null)
+            {
+                root.right = IncreasingBST(root.right);
+            }
             return root;
         }
     }

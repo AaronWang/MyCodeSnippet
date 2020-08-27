@@ -23,9 +23,23 @@ namespace SumRootToLeaf
     // @lc code=start
     public class Solution
     {
+        int sum = 0;
         public int SumRootToLeaf(TreeNode root)
         {
-            return 0;
+            if (root == null) return sum;
+            if (root.left == null && root.right == null)
+                sum += root.val;
+            if (root.left != null)
+            {
+                root.left.val += root.val * 2;
+                SumRootToLeaf(root.left);
+            }
+            if (root.right != null)
+            {
+                root.right.val += root.val * 2;
+                SumRootToLeaf(root.right);
+            }
+            return sum;
         }
     }
     // @lc code=end

@@ -23,9 +23,32 @@ namespace IsUnivalTree
     // @lc code=start
     public class Solution
     {
+        bool result = true;
         public bool IsUnivalTree(TreeNode root)
         {
-            return true;
+            if (root == null) return result;
+            if (root.left != null)
+            {
+                result = root.val == root.left.val;
+                if (result == true)
+                {
+                    result = result && IsUnivalTree(root.left);
+                    if (result == false) return false;
+                }
+                else
+                    return false;
+            }
+            if (root.right != null)
+            {
+                result = root.val == root.right.val;
+                if (result == true)
+                {
+                    result = result && IsUnivalTree(root.right);
+                }
+                else
+                    return false;
+            }
+            return result;
         }
     }
     // @lc code=end

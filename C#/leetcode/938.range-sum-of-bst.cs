@@ -23,9 +23,14 @@ namespace RangeSumBST
     // @lc code=start
     public class Solution
     {
+        int sum = 0;
         public int RangeSumBST(TreeNode root, int L, int R)
         {
-
+            if (root == null) return sum;
+            if (root.val >= L && root.val <= R) sum += root.val;
+            RangeSumBST(root.left, L, R);
+            RangeSumBST(root.right, L, R);
+            return sum;
         }
     }
     // @lc code=end

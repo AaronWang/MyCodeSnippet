@@ -3,6 +3,8 @@
  *
  * [872] Leaf-Similar Trees
  */
+using System.Collections.Generic;
+
 namespace LeafSimilar
 {
 
@@ -23,9 +25,31 @@ namespace LeafSimilar
     // @lc code=start
     public class Solution
     {
+        List<int> r1 = new List<int>();
+        List<int> r2 = new List<int>();
         public bool LeafSimilar(TreeNode root1, TreeNode root2)
         {
-            return true;
+            DFS(root1, r1);
+            DFS(root2, r2);
+            if (r1.Count == r2.Count)
+            {
+                for (int i = 0; i < r1.Count; i++)
+                {
+                    if (r1[i] != r2[i]) return false;
+                }
+                return true;
+            }
+            return false;
+        }
+        public void DFS(TreeNode root, List<int> r)
+        {
+            if (root == null) return;
+            if (root.left == null && root.right == null) r.Add(root.val);
+            else
+            {
+                DFS(root.left, r);
+                DFS(root.right, r);
+            }
         }
     }
     // @lc code=end

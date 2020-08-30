@@ -1,0 +1,58 @@
+0	09:33:11.928	Pip Value CHINA50.fs,Daily: uninit reason 3
+0	09:33:11.943	Pip Value CHINA50.fs,M30: initialized
+0	09:33:23.872	Pip Value CHINA50.fs,M30: uninit reason 3
+0	09:33:23.872	Pip Value CHINA50.fs,Daily: initialized
+0	11:01:08.488	Pip Value CHINA50.fs,Daily: uninit reason 3
+0	11:01:08.488	Pip Value CHINA50.fs,H4: initialized
+0	11:01:09.162	Pip Value CHINA50.fs,H4: uninit reason 3
+0	11:01:09.162	Pip Value CHINA50.fs,H1: initialized
+0	14:16:46.146	Pip Value CHINA50.fs,H1: uninit reason 3
+0	14:16:46.146	Pip Value CHINA50.fs,Daily: initialized
+0	14:16:54.541	Pip Value CHINA50.fs,Daily: uninit reason 7
+0	14:16:54.545	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	14:16:54.575	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	14:16:54.592	Pip Value CHINA50.fs,Daily: initialized
+0	14:17:30.618	Pip Value CHINA50.fs,Daily: uninit reason 7
+0	14:17:30.620	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	14:17:30.637	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	14:17:30.652	Pip Value CHINA50.fs,Daily: initialized
+0	14:18:08.129	Pip Value COFFEE.fs,Daily: uninit reason 3
+0	14:18:08.136	Pip Value COFFEE.fs,Weekly: initialized
+0	14:18:31.664	Pip Value COFFEE.fs,Weekly: uninit reason 3
+0	14:18:31.664	Pip Value COFFEE.fs,Daily: initialized
+0	15:41:55.208	Pip Value COFFEE.fs,Daily: uninit reason 3
+0	15:41:55.214	Pip Value COFFEE.fs,Weekly: initialized
+0	15:42:36.315	Custom indicator Market\Pip Value COPPER.fs,H1: loaded successfully
+0	15:42:36.329	Pip Value COPPER.fs,H1: initialized
+0	15:42:39.972	Pip Value COPPER.fs,H1: uninit reason 7
+0	15:42:39.974	Custom indicator Pip Value COPPER.fs,H1: removed
+0	15:42:39.990	Custom indicator Market\Pip Value COPPER.fs,H1: loaded successfully
+0	15:42:40.005	Pip Value COPPER.fs,H1: initialized
+0	15:42:50.713	Pip Value COPPER.fs,H1: uninit reason 3
+0	15:42:50.714	Pip Value COPPER.fs,H4: initialized
+0	15:42:51.713	Pip Value COPPER.fs,H4: uninit reason 3
+0	15:42:51.713	Pip Value COPPER.fs,Daily: initialized
+0	15:42:58.729	Pip Value COPPER.fs,Daily: uninit reason 3
+0	15:42:58.729	Pip Value COPPER.fs,Weekly: initialized
+0	15:43:49.147	Pip Value COPPER.fs,Weekly: uninit reason 3
+0	15:43:49.148	Pip Value COPPER.fs,Daily: initialized
+0	15:44:01.664	Pip Value COFFEE.fs,Weekly: uninit reason 3
+0	15:44:01.664	Pip Value COFFEE.fs,Daily: initialized
+0	15:47:16.850	Pip Value NATGAS.fs,Daily: uninit reason 3
+0	15:47:16.851	Pip Value NATGAS.fs,Daily: uninit reason 3
+0	15:47:16.852	Pip Value NATGAS.fs,Weekly: initialized
+0	15:47:16.852	Pip Value NATGAS.fs,Weekly: initialized
+0	15:47:21.153	Pip Value NATGAS.fs,Weekly: uninit reason 3
+0	15:47:21.153	Pip Value NATGAS.fs,Weekly: uninit reason 3
+0	15:47:21.153	Pip Value NATGAS.fs,Daily: initialized
+0	15:47:21.153	Pip Value NATGAS.fs,Daily: initialized
+0	23:36:14.699	Pip Value CHINA50.fs,Daily: uninit reason 3
+0	23:36:14.700	Pip Value CHINA50.fs,H4: initialized
+0	23:36:15.137	Pip Value CHINA50.fs,H4: uninit reason 3
+0	23:36:15.137	Pip Value CHINA50.fs,H1: initialized
+0	23:36:15.613	Pip Value CHINA50.fs,H1: uninit reason 3
+0	23:36:15.621	Pip Value CHINA50.fs,M30: initialized
+0	23:36:37.747	Pip Value CHINA50.fs,M30: uninit reason 3
+0	23:36:37.747	Pip Value CHINA50.fs,H1: initialized
+0	23:36:38.413	Pip Value CHINA50.fs,H1: uninit reason 3
+0	23:36:38.413	Pip Value CHINA50.fs,H4: initialized

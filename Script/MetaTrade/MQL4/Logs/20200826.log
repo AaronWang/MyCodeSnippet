@@ -1,0 +1,10 @@
+0	10:05:28.441	Pip Value COFFEE.fs,Weekly: uninit reason 3
+0	10:05:28.443	Pip Value COFFEE.fs,Daily: initialized
+0	16:07:30.114	Pip Value COPPER.fs,Weekly: uninit reason 4
+0	16:07:30.117	Custom indicator Pip Value COPPER.fs,Weekly: removed
+0	16:08:00.351	Pip Value EURZAR,Daily: uninit reason 4
+0	16:08:00.351	Trading Volume EURZAR,Daily: uninit reason 4
+0	16:08:00.354	Custom indicator Pip Value EURZAR,Daily: removed
+0	16:08:00.356	Custom indicator Trading Volume EURZAR,Daily: removed
+0	16:08:52.293	Pip Value CHINA50.fs,H4: uninit reason 3
+0	16:08:52.294	Pip Value CHINA50.fs,Daily: initialized

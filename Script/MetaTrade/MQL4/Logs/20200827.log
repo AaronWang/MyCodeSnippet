@@ -1,0 +1,1305 @@
+0	10:28:58.951	Pip Value AUS200,Daily: uninit reason 3
+0	10:28:58.966	Pip Value AUS200,Weekly: initialized
+0	10:47:21.119	Pip Value AUS200,Weekly: uninit reason 3
+0	10:47:21.119	Pip Value AUS200,H4: initialized
+0	10:48:16.495	Expert MACD Sample COFFEE.fs,Daily: loaded successfully
+0	10:48:46.904	MACD Sample COFFEE.fs,Daily inputs: TakeProfit=50.0; Lots=0.1; TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; 
+0	10:48:46.920	MACD Sample COFFEE.fs,Daily: initialized
+0	10:49:55.602	MACD Sample COFFEE.fs,Daily: uninit reason 1
+0	10:49:55.633	Expert MACD Sample COFFEE.fs,Daily: removed
+0	11:04:47.906	Pip Value EURUSD,Daily: uninit reason 9
+0	11:04:47.906	Pip Value AUDJPY,Daily: uninit reason 9
+0	11:04:47.906	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value AUS200,H4: uninit reason 9
+0	11:04:47.906	Pip Value SPI200.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value SPI200.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value SPI200.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value DJ30.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value DJ30.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value NAS100.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value BRENT.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value GOLD.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value VIX.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value VIX.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value VIX.fs,Daily: uninit reason 9
+0	11:04:47.906	Pip Value AUDUSD,Daily: uninit reason 9
+0	11:04:47.906	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	11:04:48.093	Custom indicator Pip Value EURUSD,Daily: removed
+0	11:04:48.109	Custom indicator Pip Value AUDJPY,Daily: removed
+0	11:04:48.124	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	11:04:48.140	Custom indicator Pip Value AUS200,H4: removed
+0	11:04:48.156	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	11:04:48.156	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	11:04:48.156	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	11:04:48.171	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	11:04:48.171	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	11:04:48.171	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	11:04:48.187	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	11:04:48.187	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	11:04:48.203	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	11:04:48.203	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	11:04:48.203	Custom indicator Pip Value VIX.fs,Daily: removed
+0	11:04:48.203	Custom indicator Pip Value VIX.fs,Daily: removed
+0	11:04:48.203	Custom indicator Pip Value VIX.fs,Daily: removed
+0	11:04:48.218	Custom indicator Pip Value AUDUSD,Daily: removed
+0	11:04:48.218	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	11:20:22.632	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	11:20:22.648	Pip Value EURUSD,Daily: initialized
+0	11:20:22.679	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	11:20:22.695	Pip Value AUDJPY,Daily: initialized
+0	11:20:22.710	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	11:20:22.726	Pip Value CHINA50.fs,Daily: initialized
+0	11:20:22.758	Custom indicator Market\Pip Value AUS200,H4: loaded successfully
+0	11:20:22.773	Pip Value AUS200,H4: initialized
+0	11:20:22.789	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	11:20:22.804	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	11:20:22.820	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	11:20:22.836	Pip Value SPI200.fs,Daily: initialized
+0	11:20:22.836	Pip Value SPI200.fs,Daily: initialized
+0	11:20:22.851	Pip Value SPI200.fs,Daily: initialized
+0	11:20:22.883	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	11:20:22.898	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	11:20:22.898	Pip Value DJ30.fs,Daily: initialized
+0	11:20:22.914	Pip Value DJ30.fs,Daily: initialized
+0	11:20:22.945	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	11:20:22.960	Pip Value NAS100.fs,Daily: initialized
+0	11:20:22.992	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	11:20:23.010	Pip Value BRENT.fs,Daily: initialized
+0	11:20:23.025	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	11:20:23.041	Pip Value GOLD.fs,Daily: initialized
+0	11:20:23.073	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	11:20:23.073	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	11:20:23.088	Pip Value NATGAS.fs,Daily: initialized
+0	11:20:23.119	Pip Value NATGAS.fs,Daily: initialized
+0	11:20:23.135	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	11:20:23.150	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	11:20:23.166	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	11:20:23.182	Pip Value VIX.fs,Daily: initialized
+0	11:20:23.198	Pip Value VIX.fs,Daily: initialized
+0	11:20:23.213	Pip Value VIX.fs,Daily: initialized
+0	11:20:23.228	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	11:20:23.244	Pip Value AUDUSD,Daily: initialized
+0	11:20:23.275	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	11:20:23.291	Pip Value COFFEE.fs,Daily: initialized
+0	12:24:05.937	Pip Value EURUSD,Daily: uninit reason 9
+0	12:24:05.937	Pip Value AUDJPY,Daily: uninit reason 9
+0	12:24:05.937	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value AUS200,H4: uninit reason 9
+0	12:24:05.937	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value DJ30.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value DJ30.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value NAS100.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value BRENT.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value GOLD.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:24:05.937	Pip Value AUDUSD,Daily: uninit reason 9
+0	12:24:05.937	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	12:24:06.044	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:24:06.059	Custom indicator Pip Value AUDJPY,Daily: removed
+0	12:24:06.059	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	12:24:06.075	Custom indicator Pip Value AUS200,H4: removed
+0	12:24:06.075	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:24:06.075	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:24:06.075	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:24:06.091	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	12:24:06.091	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	12:24:06.091	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	12:24:06.106	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	12:24:06.106	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	12:24:06.106	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	12:24:06.106	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	12:24:06.122	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:24:06.122	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:24:06.122	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:24:06.137	Custom indicator Pip Value AUDUSD,Daily: removed
+0	12:24:06.137	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	12:24:10.237	Compiling 'Sell'
+0	12:24:13.169	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:24:13.185	Pip Value EURUSD,Daily: initialized
+0	12:24:13.216	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	12:24:13.232	Pip Value AUDJPY,Daily: initialized
+0	12:24:13.263	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	12:24:13.279	Pip Value CHINA50.fs,Daily: initialized
+0	12:24:13.310	Custom indicator Market\Pip Value AUS200,H4: loaded successfully
+0	12:24:13.326	Pip Value AUS200,H4: initialized
+0	12:24:13.357	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	12:24:13.373	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	12:24:13.389	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	12:24:13.408	Pip Value SPI200.fs,Daily: initialized
+0	12:24:13.415	Pip Value SPI200.fs,Daily: initialized
+0	12:24:13.431	Pip Value SPI200.fs,Daily: initialized
+0	12:24:13.462	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	12:24:13.478	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	12:24:13.493	Pip Value DJ30.fs,Daily: initialized
+0	12:24:13.512	Pip Value DJ30.fs,Daily: initialized
+0	12:24:13.543	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	12:24:13.559	Pip Value NAS100.fs,Daily: initialized
+0	12:24:13.574	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	12:24:13.590	Pip Value BRENT.fs,Daily: initialized
+0	12:24:13.621	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	12:24:13.637	Pip Value GOLD.fs,Daily: initialized
+0	12:24:13.668	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	12:24:13.684	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	12:24:13.700	Pip Value NATGAS.fs,Daily: initialized
+0	12:24:13.715	Pip Value NATGAS.fs,Daily: initialized
+0	12:24:13.746	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	12:24:13.746	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	12:24:13.762	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	12:24:13.777	Pip Value VIX.fs,Daily: initialized
+0	12:24:13.794	Pip Value VIX.fs,Daily: initialized
+0	12:24:13.809	Pip Value VIX.fs,Daily: initialized
+0	12:24:13.840	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	12:24:13.856	Pip Value AUDUSD,Daily: initialized
+0	12:24:13.887	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	11:25:40.481	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	11:25:40.497	Pip Value EURUSD,Daily: initialized
+0	11:25:40.622	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	11:25:40.622	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	11:25:40.653	Pip Value EURMXN,H4: initialized
+0	11:25:40.669	Pip Value EURMXN,H4: initialized
+0	11:25:40.700	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	11:25:40.715	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	11:25:40.731	Pip Value USDZAR,Daily: initialized
+0	11:25:40.747	Pip Value USDZAR,Daily: initialized
+0	12:32:55.775	Pip Value EURUSD,Daily: uninit reason 9
+0	12:32:55.775	Pip Value EURMXN,H4: uninit reason 9
+0	12:32:55.775	Pip Value EURMXN,H4: uninit reason 9
+0	12:32:55.775	Pip Value USDZAR,Daily: uninit reason 9
+0	12:32:55.775	Pip Value USDZAR,Daily: uninit reason 9
+0	12:32:55.837	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:32:55.868	Custom indicator Pip Value EURMXN,H4: removed
+0	12:32:55.868	Custom indicator Pip Value EURMXN,H4: removed
+0	12:32:55.899	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:32:55.899	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:33:02.212	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:33:02.228	Pip Value EURUSD,Daily: initialized
+0	12:33:02.353	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:33:02.353	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:33:02.384	Pip Value EURMXN,H4: initialized
+0	12:33:02.399	Pip Value EURMXN,H4: initialized
+0	12:33:02.415	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:33:02.431	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:33:02.447	Pip Value USDZAR,Daily: initialized
+0	12:33:02.462	Pip Value USDZAR,Daily: initialized
+0	12:36:04.910	Pip Value EURUSD,Daily: uninit reason 9
+0	12:36:04.910	Pip Value EURMXN,H4: uninit reason 9
+0	12:36:04.910	Pip Value EURMXN,H4: uninit reason 9
+0	12:36:04.910	Pip Value USDZAR,Daily: uninit reason 9
+0	12:36:04.910	Pip Value USDZAR,Daily: uninit reason 9
+0	12:36:05.004	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:36:05.035	Custom indicator Pip Value EURMXN,H4: removed
+0	12:36:05.035	Custom indicator Pip Value EURMXN,H4: removed
+0	12:36:05.098	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:36:05.098	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:36:14.733	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:36:14.749	Pip Value EURUSD,Daily: initialized
+0	12:36:14.842	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:36:14.858	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:36:14.874	Pip Value EURMXN,H4: initialized
+0	12:36:14.889	Pip Value EURMXN,H4: initialized
+0	12:36:14.921	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:36:14.936	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:36:14.952	Pip Value USDZAR,Daily: initialized
+0	12:36:14.967	Pip Value USDZAR,Daily: initialized
+0	12:36:15.092	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:36:15.108	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:36:15.124	Pip Value USDZAR,Daily: initialized
+0	12:36:15.140	Pip Value USDZAR,Daily: initialized
+0	12:36:15.171	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:36:15.171	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:36:15.186	Pip Value EURMXN,H4: initialized
+0	12:36:15.202	Pip Value EURMXN,H4: initialized
+0	12:36:15.249	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:36:15.264	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:36:15.280	Pip Value EURMXN,H4: initialized
+0	12:36:15.296	Pip Value EURMXN,H4: initialized
+0	12:41:14.164	Pip Value EURUSD,Daily: uninit reason 9
+0	12:41:14.164	Pip Value EURMXN,H4: uninit reason 9
+0	12:41:14.164	Pip Value EURMXN,H4: uninit reason 9
+0	12:41:14.164	Pip Value USDZAR,Daily: uninit reason 9
+0	12:41:14.164	Pip Value USDZAR,Daily: uninit reason 9
+0	12:41:14.164	Pip Value USDZAR,Daily: uninit reason 9
+0	12:41:14.164	Pip Value USDZAR,Daily: uninit reason 9
+0	12:41:14.164	Pip Value EURMXN,H4: uninit reason 9
+0	12:41:14.164	Pip Value EURMXN,H4: uninit reason 9
+0	12:41:14.164	Pip Value EURMXN,H4: uninit reason 9
+0	12:41:14.164	Pip Value EURMXN,H4: uninit reason 9
+0	12:41:14.235	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:41:14.250	Custom indicator Pip Value EURMXN,H4: removed
+0	12:41:14.250	Custom indicator Pip Value EURMXN,H4: removed
+0	12:41:14.282	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:41:14.282	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:41:14.337	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:41:14.339	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:41:14.349	Custom indicator Pip Value EURMXN,H4: removed
+0	12:41:14.349	Custom indicator Pip Value EURMXN,H4: removed
+0	12:41:14.364	Custom indicator Pip Value EURMXN,H4: removed
+0	12:41:14.364	Custom indicator Pip Value EURMXN,H4: removed
+0	12:42:57.908	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:42:57.924	Pip Value EURUSD,Daily: initialized
+0	12:42:57.986	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.002	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.017	Pip Value EURMXN,H4: initialized
+0	12:42:58.033	Pip Value EURMXN,H4: initialized
+0	12:42:58.080	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.096	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.111	Pip Value USDZAR,Daily: initialized
+0	12:42:58.127	Pip Value USDZAR,Daily: initialized
+0	12:42:58.267	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.267	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.298	Pip Value USDZAR,Daily: initialized
+0	12:42:58.314	Pip Value USDZAR,Daily: initialized
+0	12:42:58.361	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.377	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.392	Pip Value EURMXN,H4: initialized
+0	12:42:58.423	Pip Value EURMXN,H4: initialized
+0	12:42:58.486	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.502	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.517	Pip Value EURMXN,H4: initialized
+0	12:42:58.533	Pip Value EURMXN,H4: initialized
+0	12:42:58.614	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.630	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.645	Pip Value EURMXN,H4: initialized
+0	12:42:58.662	Pip Value EURMXN,H4: initialized
+0	12:42:58.708	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.724	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:42:58.739	Pip Value EURMXN,H4: initialized
+0	12:42:58.755	Pip Value EURMXN,H4: initialized
+0	12:42:58.802	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.817	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.833	Pip Value USDZAR,Daily: initialized
+0	12:42:58.849	Pip Value USDZAR,Daily: initialized
+0	12:42:58.895	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.911	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:42:58.927	Pip Value USDZAR,Daily: initialized
+0	12:42:58.943	Pip Value USDZAR,Daily: initialized
+0	12:43:30.105	Pip Value USDZAR,Daily: uninit reason 4
+0	12:43:30.105	Pip Value USDZAR,Daily: uninit reason 4
+0	12:43:30.105	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:43:30.105	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:43:33.257	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:33.257	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:33.257	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:33.257	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:38.118	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:38.118	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:38.121	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:38.122	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:39.835	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:39.835	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:39.835	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:39.835	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:41.678	Pip Value USDZAR,Daily: uninit reason 4
+0	12:43:41.678	Pip Value USDZAR,Daily: uninit reason 4
+0	12:43:41.678	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:43:41.678	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:43:49.060	Pip Value USDZAR,Daily: uninit reason 4
+0	12:43:49.060	Pip Value USDZAR,Daily: uninit reason 4
+0	12:43:49.060	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:43:49.060	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:43:50.775	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:50.775	Pip Value EURMXN,H4: uninit reason 4
+0	12:43:50.791	Custom indicator Pip Value EURMXN,H4: removed
+0	12:43:50.791	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:04.845	Pip Value EURUSD,Daily: uninit reason 9
+0	12:45:04.845	Pip Value EURMXN,H4: uninit reason 9
+0	12:45:04.845	Pip Value EURMXN,H4: uninit reason 9
+0	12:45:04.845	Pip Value USDZAR,Daily: uninit reason 9
+0	12:45:04.845	Pip Value USDZAR,Daily: uninit reason 9
+0	12:45:04.911	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:45:04.994	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:04.994	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:05.021	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:05.023	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:10.746	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:45:10.762	Pip Value EURUSD,Daily: initialized
+0	12:45:10.855	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:10.871	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:10.887	Pip Value EURMXN,H4: initialized
+0	12:45:10.911	Pip Value EURMXN,H4: initialized
+0	12:45:10.940	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:10.955	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:10.971	Pip Value USDZAR,Daily: initialized
+0	12:45:10.986	Pip Value USDZAR,Daily: initialized
+0	12:45:11.111	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:11.111	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:11.127	Pip Value USDZAR,Daily: initialized
+0	12:45:11.143	Pip Value USDZAR,Daily: initialized
+0	12:45:11.205	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.221	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.237	Pip Value EURMXN,H4: initialized
+0	12:45:11.252	Pip Value EURMXN,H4: initialized
+0	12:45:11.299	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.314	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.330	Pip Value EURMXN,H4: initialized
+0	12:45:11.346	Pip Value EURMXN,H4: initialized
+0	12:45:11.408	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.424	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.439	Pip Value EURMXN,H4: initialized
+0	12:45:11.455	Pip Value EURMXN,H4: initialized
+0	12:45:11.517	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.533	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:45:11.549	Pip Value EURMXN,H4: initialized
+0	12:45:11.564	Pip Value EURMXN,H4: initialized
+0	12:45:11.627	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:11.642	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:11.658	Pip Value USDZAR,Daily: initialized
+0	12:45:11.674	Pip Value USDZAR,Daily: initialized
+0	12:45:11.721	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:11.736	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:45:11.752	Pip Value USDZAR,Daily: initialized
+0	12:45:11.767	Pip Value USDZAR,Daily: initialized
+0	12:45:22.224	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:22.224	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:22.224	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:22.224	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:23.544	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:23.544	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:23.544	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:23.544	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:25.649	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:25.649	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:25.664	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:25.664	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:26.716	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:26.716	Pip Value EURMXN,H4: uninit reason 4
+0	12:45:26.720	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:26.722	Custom indicator Pip Value EURMXN,H4: removed
+0	12:45:27.711	Pip Value USDZAR,Daily: uninit reason 4
+0	12:45:27.711	Pip Value USDZAR,Daily: uninit reason 4
+0	12:45:27.715	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:27.717	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:28.744	Pip Value USDZAR,Daily: uninit reason 4
+0	12:45:28.744	Pip Value USDZAR,Daily: uninit reason 4
+0	12:45:28.744	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:28.759	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:33.609	Pip Value USDZAR,Daily: uninit reason 4
+0	12:45:33.609	Pip Value USDZAR,Daily: uninit reason 4
+0	12:45:33.613	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:45:33.615	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:16.217	Pip Value EURUSD,Daily: uninit reason 9
+0	12:46:16.217	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:16.217	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:16.217	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:16.217	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:16.279	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:46:16.388	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:16.388	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:16.388	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:16.404	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:21.483	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:46:21.499	Pip Value EURUSD,Daily: initialized
+0	12:46:21.580	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:21.580	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:21.595	Pip Value EURMXN,H4: initialized
+0	12:46:21.617	Pip Value EURMXN,H4: initialized
+0	12:46:21.662	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:21.663	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:21.678	Pip Value USDZAR,Daily: initialized
+0	12:46:21.705	Pip Value USDZAR,Daily: initialized
+0	12:46:21.836	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:21.852	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:21.867	Pip Value USDZAR,Daily: initialized
+0	12:46:21.883	Pip Value USDZAR,Daily: initialized
+0	12:46:21.922	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:21.937	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:21.953	Pip Value EURMXN,H4: initialized
+0	12:46:21.969	Pip Value EURMXN,H4: initialized
+0	12:46:22.006	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:22.019	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:22.025	Pip Value EURMXN,H4: initialized
+0	12:46:22.041	Pip Value EURMXN,H4: initialized
+0	12:46:22.110	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:22.123	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:22.124	Pip Value EURMXN,H4: initialized
+0	12:46:22.139	Pip Value EURMXN,H4: initialized
+0	12:46:22.186	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:22.209	Custom indicator Market\Pip Value EURMXN,H4: loaded successfully
+0	12:46:22.227	Pip Value EURMXN,H4: initialized
+0	12:46:22.231	Pip Value EURMXN,H4: initialized
+0	12:46:22.278	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:22.294	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:22.310	Pip Value USDZAR,Daily: initialized
+0	12:46:22.314	Pip Value USDZAR,Daily: initialized
+0	12:46:22.361	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:22.376	Custom indicator Market\Pip Value USDZAR,Daily: loaded successfully
+0	12:46:22.393	Pip Value USDZAR,Daily: initialized
+0	12:46:22.393	Pip Value USDZAR,Daily: initialized
+0	12:46:25.684	Pip Value EURUSD,Daily: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value EURMXN,H4: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.684	Pip Value USDZAR,Daily: uninit reason 9
+0	12:46:25.798	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:46:25.823	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.825	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.840	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.841	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.860	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.862	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.869	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.871	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.877	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.879	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.889	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.890	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.895	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.897	Custom indicator Pip Value EURMXN,H4: removed
+0	12:46:25.902	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.904	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.920	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:46:25.922	Custom indicator Pip Value USDZAR,Daily: removed
+0	12:24:13.902	Pip Value COFFEE.fs,Daily: initialized
+0	12:26:39.381	Expert tttttt COFFEE.fs,Daily: loaded successfully
+0	12:26:44.685	Expert tttttt COFFEE.fs,Daily: removed
+0	12:28:23.471	Pip Value AUS200,H4: uninit reason 3
+0	12:28:23.471	Pip Value AUS200,Daily: initialized
+0	12:51:39.469	Pip Value EURUSD,Daily: uninit reason 9
+0	12:51:39.469	Pip Value AUDJPY,Daily: uninit reason 9
+0	12:51:39.469	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value AUS200,Daily: uninit reason 9
+0	12:51:39.469	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value DJ30.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value DJ30.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value NAS100.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value BRENT.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value GOLD.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:51:39.469	Pip Value AUDUSD,Daily: uninit reason 9
+0	12:51:39.469	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	12:51:39.706	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:51:39.754	Custom indicator Pip Value AUDJPY,Daily: removed
+0	12:51:39.769	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	12:51:39.847	Custom indicator Pip Value AUS200,Daily: removed
+0	12:51:39.879	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:51:39.879	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:51:39.879	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:51:39.925	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	12:51:39.925	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	12:51:39.941	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	12:51:39.941	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	12:51:39.956	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	12:51:39.956	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	12:51:39.956	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	12:51:39.972	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:51:39.972	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:51:39.972	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:51:39.988	Custom indicator Pip Value AUDUSD,Daily: removed
+0	12:51:39.988	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	12:55:12.822	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	12:55:12.838	Pip Value EURUSD,Daily: initialized
+0	12:55:12.869	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	12:55:12.884	Pip Value AUDJPY,Daily: initialized
+0	12:55:12.900	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	12:55:12.916	Pip Value CHINA50.fs,Daily: initialized
+0	12:55:12.947	Custom indicator Market\Pip Value AUS200,H4: loaded successfully
+0	12:55:12.963	Pip Value AUS200,H4: initialized
+0	12:55:12.994	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	12:55:13.010	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	12:55:13.010	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	12:55:13.025	Pip Value SPI200.fs,Daily: initialized
+0	12:55:13.041	Pip Value SPI200.fs,Daily: initialized
+0	12:55:13.056	Pip Value SPI200.fs,Daily: initialized
+0	12:55:13.087	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	12:55:13.103	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	12:55:13.119	Pip Value DJ30.fs,Daily: initialized
+0	12:55:13.134	Pip Value DJ30.fs,Daily: initialized
+0	12:55:13.166	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	12:55:13.181	Pip Value NAS100.fs,Daily: initialized
+0	12:55:13.212	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	12:55:13.228	Pip Value BRENT.fs,Daily: initialized
+0	12:55:13.244	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	12:55:13.275	Pip Value GOLD.fs,Daily: initialized
+0	12:55:13.291	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	12:55:13.306	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	12:55:13.322	Pip Value NATGAS.fs,Daily: initialized
+0	12:55:13.338	Pip Value NATGAS.fs,Daily: initialized
+0	12:55:13.369	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	12:55:13.385	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	12:55:13.400	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	12:55:13.416	Pip Value VIX.fs,Daily: initialized
+0	12:55:13.431	Pip Value VIX.fs,Daily: initialized
+0	12:55:13.431	Pip Value VIX.fs,Daily: initialized
+0	12:55:13.478	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	12:55:13.494	Pip Value AUDUSD,Daily: initialized
+0	12:55:13.525	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	12:55:13.541	Pip Value COFFEE.fs,Daily: initialized
+0	12:55:13.603	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	12:55:13.619	Pip Value COFFEE.fs,Daily: initialized
+0	12:55:13.666	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	12:55:13.682	Pip Value COFFEE.fs,Daily: initialized
+0	12:55:28.851	Pip Value EURUSD,Daily: uninit reason 9
+0	12:55:28.851	Pip Value AUDJPY,Daily: uninit reason 9
+0	12:55:28.851	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value AUS200,H4: uninit reason 9
+0	12:55:28.851	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value SPI200.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value DJ30.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value DJ30.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value NAS100.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value BRENT.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value GOLD.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value VIX.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value AUDUSD,Daily: uninit reason 9
+0	12:55:28.851	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	12:55:28.851	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	12:55:28.929	Custom indicator Pip Value EURUSD,Daily: removed
+0	12:55:28.944	Custom indicator Pip Value AUDJPY,Daily: removed
+0	12:55:28.975	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	12:55:28.991	Custom indicator Pip Value AUS200,H4: removed
+0	12:55:28.991	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:55:28.991	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:55:28.991	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	12:55:29.007	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	12:55:29.007	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	12:55:29.007	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	12:55:29.007	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	12:55:29.022	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	12:55:29.022	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	12:55:29.022	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	12:55:29.038	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:55:29.038	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:55:29.038	Custom indicator Pip Value VIX.fs,Daily: removed
+0	12:55:29.038	Custom indicator Pip Value AUDUSD,Daily: removed
+0	12:55:29.054	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	12:55:29.054	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	12:55:29.069	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:35:47.274	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:35:47.289	Pip Value EURUSD,Daily: initialized
+0	16:35:47.305	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:35:47.321	Pip Value AUDJPY,Daily: initialized
+0	16:35:47.352	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:35:47.367	Pip Value CHINA50.fs,Daily: initialized
+0	16:35:47.383	Custom indicator Market\Pip Value AUS200,H4: loaded successfully
+0	16:35:47.398	Pip Value AUS200,H4: initialized
+0	16:35:47.430	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:35:47.445	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:35:47.445	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:35:47.461	Pip Value SPI200.fs,Daily: initialized
+0	16:35:47.477	Pip Value SPI200.fs,Daily: initialized
+0	16:35:47.492	Pip Value SPI200.fs,Daily: initialized
+0	16:35:47.527	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:35:47.527	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:35:47.542	Pip Value DJ30.fs,Daily: initialized
+0	16:35:47.558	Pip Value DJ30.fs,Daily: initialized
+0	16:35:47.592	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:35:47.608	Pip Value NAS100.fs,Daily: initialized
+0	16:35:47.639	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:35:47.639	Pip Value BRENT.fs,Daily: initialized
+0	16:35:47.686	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:35:47.701	Pip Value GOLD.fs,Daily: initialized
+0	16:35:47.764	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:35:47.779	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:35:47.811	Pip Value NATGAS.fs,Daily: initialized
+0	16:35:47.826	Pip Value NATGAS.fs,Daily: initialized
+0	16:35:47.873	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:35:47.889	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:35:47.889	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:35:47.904	Pip Value VIX.fs,Daily: initialized
+0	16:35:47.920	Pip Value VIX.fs,Daily: initialized
+0	16:35:47.936	Pip Value VIX.fs,Daily: initialized
+0	16:35:47.967	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:35:47.967	Pip Value AUDUSD,Daily: initialized
+0	16:35:47.998	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:35:48.018	Pip Value COFFEE.fs,Daily: initialized
+0	16:35:48.049	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:35:48.065	Pip Value COFFEE.fs,Daily: initialized
+0	16:35:48.096	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:35:48.112	Pip Value COFFEE.fs,Daily: initialized
+0	16:35:55.145	Pip Value COFFEE.fs,Daily: uninit reason 4
+0	16:35:55.145	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:35:56.960	Pip Value COFFEE.fs,Daily: uninit reason 4
+0	16:35:56.960	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:36:32.633	Pip Value EURUSD,Daily: uninit reason 9
+0	16:36:32.633	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:36:32.633	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value AUS200,H4: uninit reason 9
+0	16:36:32.633	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:36:32.633	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:36:32.633	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:36:32.683	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:36:32.699	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:36:32.714	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:36:32.714	Custom indicator Pip Value AUS200,H4: removed
+0	16:36:32.714	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:36:32.730	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:36:32.730	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:36:32.730	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:36:32.730	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:36:32.730	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:36:32.746	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:36:32.746	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:36:32.746	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:36:32.746	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:36:32.761	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:36:32.761	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:36:32.761	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:36:32.761	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:36:32.777	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:36:37.726	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:36:37.742	Pip Value EURUSD,Daily: initialized
+0	16:36:37.758	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:36:37.773	Pip Value AUDJPY,Daily: initialized
+0	16:36:37.804	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:36:37.820	Pip Value CHINA50.fs,Daily: initialized
+0	16:36:37.851	Custom indicator Market\Pip Value AUS200,H4: loaded successfully
+0	16:36:37.867	Pip Value AUS200,H4: initialized
+0	16:36:37.898	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:36:37.914	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:36:37.929	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:36:37.945	Pip Value SPI200.fs,Daily: initialized
+0	16:36:37.961	Pip Value SPI200.fs,Daily: initialized
+0	16:36:37.976	Pip Value SPI200.fs,Daily: initialized
+0	16:36:38.008	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:36:38.023	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:36:38.039	Pip Value DJ30.fs,Daily: initialized
+0	16:36:38.055	Pip Value DJ30.fs,Daily: initialized
+0	16:36:38.086	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:36:38.102	Pip Value NAS100.fs,Daily: initialized
+0	16:36:38.133	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:36:38.148	Pip Value BRENT.fs,Daily: initialized
+0	16:36:38.180	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:36:38.196	Pip Value GOLD.fs,Daily: initialized
+0	16:36:38.211	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:36:38.227	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:36:38.242	Pip Value NATGAS.fs,Daily: initialized
+0	16:36:38.258	Pip Value NATGAS.fs,Daily: initialized
+0	16:36:38.289	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:36:38.289	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:36:38.304	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:36:38.320	Pip Value VIX.fs,Daily: initialized
+0	16:36:38.336	Pip Value VIX.fs,Daily: initialized
+0	16:36:38.351	Pip Value VIX.fs,Daily: initialized
+0	16:36:38.383	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:36:38.398	Pip Value AUDUSD,Daily: initialized
+0	16:36:38.429	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:36:38.445	Pip Value COFFEE.fs,Daily: initialized
+0	16:36:38.492	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:36:38.508	Pip Value COFFEE.fs,Daily: initialized
+0	16:36:38.554	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:36:38.570	Pip Value COFFEE.fs,Daily: initialized
+0	16:36:56.770	Pip Value EURUSD,Daily: uninit reason 9
+0	16:36:56.770	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:36:56.770	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value AUS200,H4: uninit reason 9
+0	16:36:56.770	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:36:56.770	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:36:56.770	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:36:56.833	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:36:56.833	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:36:56.848	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:36:56.864	Custom indicator Pip Value AUS200,H4: removed
+0	16:36:56.880	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:36:56.880	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:36:56.880	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:36:56.895	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:36:56.895	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:36:56.895	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:36:56.895	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:36:56.911	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:36:56.911	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:36:56.911	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:36:56.926	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:36:56.926	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:36:56.926	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:36:56.926	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:36:56.942	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:36:56.942	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:36:56.958	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:38:47.598	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:38:47.614	Pip Value EURUSD,Daily: initialized
+0	16:38:47.629	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:38:47.645	Pip Value AUDJPY,Daily: initialized
+0	16:38:47.660	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:38:47.676	Pip Value CHINA50.fs,Daily: initialized
+0	16:38:47.703	Custom indicator Market\Pip Value AUS200,Daily: loaded successfully
+0	16:38:47.718	Pip Value AUS200,Daily: initialized
+0	16:38:47.766	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:38:47.766	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:38:47.781	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:38:47.797	Pip Value SPI200.fs,Daily: initialized
+0	16:38:47.812	Pip Value SPI200.fs,Daily: initialized
+0	16:38:47.828	Pip Value SPI200.fs,Daily: initialized
+0	16:38:47.859	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:38:47.875	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:38:47.891	Pip Value DJ30.fs,Daily: initialized
+0	16:38:47.906	Pip Value DJ30.fs,Daily: initialized
+0	16:38:47.937	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:38:47.953	Pip Value NAS100.fs,Daily: initialized
+0	16:38:47.986	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:38:47.995	Pip Value BRENT.fs,Daily: initialized
+0	16:38:48.014	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:38:48.029	Pip Value GOLD.fs,Daily: initialized
+0	16:38:48.060	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:38:48.076	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:38:48.092	Pip Value NATGAS.fs,Daily: initialized
+0	16:38:48.092	Pip Value NATGAS.fs,Daily: initialized
+0	16:38:48.139	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:38:48.139	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:38:48.154	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:38:48.171	Pip Value VIX.fs,Daily: initialized
+0	16:38:48.186	Pip Value VIX.fs,Daily: initialized
+0	16:38:48.186	Pip Value VIX.fs,Daily: initialized
+0	16:38:48.217	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:38:48.233	Pip Value AUDUSD,Daily: initialized
+0	16:38:48.248	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:38:48.264	Pip Value COFFEE.fs,Daily: initialized
+0	16:38:48.295	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:38:48.311	Pip Value COFFEE.fs,Daily: initialized
+0	16:38:48.358	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:38:48.373	Pip Value COFFEE.fs,Daily: initialized
+0	16:39:04.409	Pip Value EURUSD,Daily: uninit reason 9
+0	16:39:04.409	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:39:04.409	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value AUS200,Daily: uninit reason 9
+0	16:39:04.409	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:39:04.409	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:39:04.409	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:39:04.517	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:39:04.533	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:39:04.533	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:39:04.548	Custom indicator Pip Value AUS200,Daily: removed
+0	16:39:04.548	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:39:04.564	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:39:04.564	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:39:04.580	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:39:04.580	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:39:04.580	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:39:04.580	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:39:04.595	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:39:04.595	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:39:04.595	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:39:04.611	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:39:04.611	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:39:04.611	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:39:04.626	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:39:04.626	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:39:04.642	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:39:04.658	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:41:40.323	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:41:40.338	Pip Value EURUSD,Daily: initialized
+0	16:41:40.353	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:41:40.370	Pip Value AUDJPY,Daily: initialized
+0	16:41:40.401	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:41:40.416	Pip Value CHINA50.fs,Daily: initialized
+0	16:41:40.447	Custom indicator Market\Pip Value AUS200,Daily: loaded successfully
+0	16:41:40.463	Pip Value AUS200,Daily: initialized
+0	16:41:40.494	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:41:40.494	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:41:40.509	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:41:40.525	Pip Value SPI200.fs,Daily: initialized
+0	16:41:40.541	Pip Value SPI200.fs,Daily: initialized
+0	16:41:40.557	Pip Value SPI200.fs,Daily: initialized
+0	16:41:40.588	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:41:40.603	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:41:40.619	Pip Value DJ30.fs,Daily: initialized
+0	16:41:40.619	Pip Value DJ30.fs,Daily: initialized
+0	16:41:40.666	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:41:40.682	Pip Value NAS100.fs,Daily: initialized
+0	16:41:40.728	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:41:40.744	Pip Value BRENT.fs,Daily: initialized
+0	16:41:40.791	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:41:40.806	Pip Value GOLD.fs,Daily: initialized
+0	16:41:40.854	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:41:40.869	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:41:40.884	Pip Value NATGAS.fs,Daily: initialized
+0	16:41:40.884	Pip Value NATGAS.fs,Daily: initialized
+0	16:41:40.916	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:41:40.931	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:41:40.947	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:41:40.963	Pip Value VIX.fs,Daily: initialized
+0	16:41:40.963	Pip Value VIX.fs,Daily: initialized
+0	16:41:40.978	Pip Value VIX.fs,Daily: initialized
+0	16:41:41.025	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:41:41.041	Pip Value AUDUSD,Daily: initialized
+0	16:41:41.072	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:41:41.088	Pip Value COFFEE.fs,Daily: initialized
+0	16:41:55.255	Pip Value EURUSD,Daily: uninit reason 4
+0	16:41:55.255	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:42:16.521	Custom indicator Market\Pip Value EURUSD,H1: loaded successfully
+0	16:42:16.537	Pip Value EURUSD,H1: initialized
+0	16:42:19.173	Pip Value EURUSD,H1: uninit reason 7
+0	16:42:19.173	Custom indicator Pip Value EURUSD,H1: removed
+0	16:42:22.152	Custom indicator Market\Pip Value EURUSD,H1: loaded successfully
+0	16:42:22.168	Pip Value EURUSD,H1: initialized
+0	16:42:30.103	Pip Value EURUSD,H1: uninit reason 3
+0	16:42:30.103	Pip Value EURUSD,Daily: initialized
+0	16:44:34.481	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:44:34.481	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value AUS200,Daily: uninit reason 9
+0	16:44:34.481	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:44:34.481	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:44:34.481	Pip Value EURUSD,Daily: uninit reason 9
+0	16:44:34.546	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:44:34.562	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:44:34.562	Custom indicator Pip Value AUS200,Daily: removed
+0	16:44:34.562	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:44:34.578	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:44:34.578	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:44:34.578	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:44:34.578	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:44:34.578	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:44:34.578	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:44:34.593	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:44:34.593	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:44:34.593	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:44:34.593	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:44:34.609	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:44:34.609	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:44:34.609	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:44:34.609	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:44:34.624	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:46:41.200	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:46:41.231	Pip Value EURUSD,Daily: initialized
+0	16:46:41.262	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:46:41.278	Pip Value AUDJPY,Daily: initialized
+0	16:46:41.325	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:46:41.340	Pip Value CHINA50.fs,Daily: initialized
+0	16:46:41.387	Custom indicator Market\Pip Value AUS200,Daily: loaded successfully
+0	16:46:41.403	Pip Value AUS200,Daily: initialized
+0	16:46:41.450	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:46:41.466	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:46:41.466	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:46:41.481	Pip Value SPI200.fs,Daily: initialized
+0	16:46:41.497	Pip Value SPI200.fs,Daily: initialized
+0	16:46:41.513	Pip Value SPI200.fs,Daily: initialized
+0	16:46:41.543	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:46:41.559	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:46:41.575	Pip Value DJ30.fs,Daily: initialized
+0	16:46:41.591	Pip Value DJ30.fs,Daily: initialized
+0	16:46:41.622	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:46:41.637	Pip Value NAS100.fs,Daily: initialized
+0	16:46:41.684	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:46:41.700	Pip Value BRENT.fs,Daily: initialized
+0	16:46:41.731	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:46:41.746	Pip Value GOLD.fs,Daily: initialized
+0	16:46:41.793	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:46:41.809	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:46:41.825	Pip Value NATGAS.fs,Daily: initialized
+0	16:46:41.841	Pip Value NATGAS.fs,Daily: initialized
+0	16:46:41.872	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:46:41.887	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:46:41.903	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:46:41.919	Pip Value VIX.fs,Daily: initialized
+0	16:46:41.934	Pip Value VIX.fs,Daily: initialized
+0	16:46:41.950	Pip Value VIX.fs,Daily: initialized
+0	16:46:41.981	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:46:42.012	Pip Value AUDUSD,Daily: initialized
+0	16:46:42.043	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:46:42.075	Pip Value COFFEE.fs,Daily: initialized
+0	16:47:14.786	Pip Value EURUSD,Daily: uninit reason 9
+0	16:47:14.786	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:47:14.786	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value AUS200,Daily: uninit reason 9
+0	16:47:14.786	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:47:14.786	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:47:14.786	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:47:14.863	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:47:14.878	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:47:14.878	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:47:14.894	Custom indicator Pip Value AUS200,Daily: removed
+0	16:47:14.894	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:47:14.894	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:47:14.894	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:47:14.894	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:47:14.894	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:47:14.910	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:47:14.910	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:47:14.910	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:47:14.925	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:47:14.925	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:47:14.925	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:47:14.925	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:47:14.925	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:47:14.941	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:47:14.941	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:47:34.364	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:47:34.380	Pip Value EURUSD,Daily: initialized
+0	16:47:34.395	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:47:34.411	Pip Value AUDJPY,Daily: initialized
+0	16:47:34.442	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:47:34.458	Pip Value CHINA50.fs,Daily: initialized
+0	16:47:34.488	Custom indicator Market\Pip Value AUS200,Daily: loaded successfully
+0	16:47:34.488	Pip Value AUS200,Daily: initialized
+0	16:47:34.522	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:47:34.538	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:47:34.538	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:47:34.553	Pip Value SPI200.fs,Daily: initialized
+0	16:47:34.569	Pip Value SPI200.fs,Daily: initialized
+0	16:47:34.585	Pip Value SPI200.fs,Daily: initialized
+0	16:47:34.619	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:47:34.627	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:47:34.627	Pip Value DJ30.fs,Daily: initialized
+0	16:47:34.642	Pip Value DJ30.fs,Daily: initialized
+0	16:47:34.674	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:47:34.690	Pip Value NAS100.fs,Daily: initialized
+0	16:47:34.721	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:47:34.721	Pip Value BRENT.fs,Daily: initialized
+0	16:47:34.752	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:47:34.767	Pip Value GOLD.fs,Daily: initialized
+0	16:47:34.799	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:47:34.814	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:47:34.831	Pip Value NATGAS.fs,Daily: initialized
+0	16:47:34.846	Pip Value NATGAS.fs,Daily: initialized
+0	16:47:34.878	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:47:34.878	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:47:34.892	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:47:34.909	Pip Value VIX.fs,Daily: initialized
+0	16:47:34.924	Pip Value VIX.fs,Daily: initialized
+0	16:47:34.924	Pip Value VIX.fs,Daily: initialized
+0	16:47:34.966	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:47:34.966	Pip Value AUDUSD,Daily: initialized
+0	16:47:35.013	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:47:35.013	Pip Value COFFEE.fs,Daily: initialized
+0	16:49:24.092	Pip Value EURUSD,Daily: uninit reason 9
+0	16:49:24.092	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:49:24.092	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value AUS200,Daily: uninit reason 9
+0	16:49:24.092	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:49:24.092	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:49:24.092	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:49:24.170	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:49:24.186	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:49:24.186	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:49:24.201	Custom indicator Pip Value AUS200,Daily: removed
+0	16:49:24.201	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:49:24.201	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:49:24.201	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:49:24.201	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:49:24.217	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:49:24.217	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:49:24.217	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:49:24.217	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:49:24.232	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:49:24.232	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:49:24.232	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:49:24.232	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:49:24.232	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:49:24.248	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:49:24.248	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:50:05.036	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:50:05.051	Pip Value EURUSD,Daily: initialized
+0	16:50:05.083	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:50:05.099	Pip Value AUDJPY,Daily: initialized
+0	16:50:05.129	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:50:05.145	Pip Value CHINA50.fs,Daily: initialized
+0	16:50:05.176	Custom indicator Market\Pip Value AUS200,Daily: loaded successfully
+0	16:50:05.193	Pip Value AUS200,Daily: initialized
+0	16:50:05.224	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:50:05.224	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:50:05.239	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:50:05.255	Pip Value SPI200.fs,Daily: initialized
+0	16:50:05.271	Pip Value SPI200.fs,Daily: initialized
+0	16:50:05.286	Pip Value SPI200.fs,Daily: initialized
+0	16:50:05.318	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:50:05.318	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:50:05.333	Pip Value DJ30.fs,Daily: initialized
+0	16:50:05.349	Pip Value DJ30.fs,Daily: initialized
+0	16:50:05.379	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:50:05.395	Pip Value NAS100.fs,Daily: initialized
+0	16:50:05.458	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:50:05.458	Pip Value BRENT.fs,Daily: initialized
+0	16:50:05.489	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:50:05.504	Pip Value GOLD.fs,Daily: initialized
+0	16:50:05.536	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:50:05.551	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:50:05.567	Pip Value NATGAS.fs,Daily: initialized
+0	16:50:05.582	Pip Value NATGAS.fs,Daily: initialized
+0	16:50:05.629	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:50:05.645	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:50:05.661	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:50:05.676	Pip Value VIX.fs,Daily: initialized
+0	16:50:05.692	Pip Value VIX.fs,Daily: initialized
+0	16:50:05.692	Pip Value VIX.fs,Daily: initialized
+0	16:50:05.754	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:50:05.770	Pip Value AUDUSD,Daily: initialized
+0	16:50:05.832	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:50:05.848	Pip Value COFFEE.fs,Daily: initialized
+0	16:52:37.700	Pip Value EURUSD,Daily: uninit reason 9
+0	16:52:37.700	Pip Value AUDJPY,Daily: uninit reason 9
+0	16:52:37.700	Pip Value CHINA50.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value AUS200,Daily: uninit reason 9
+0	16:52:37.700	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value SPI200.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value DJ30.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value NAS100.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value BRENT.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value GOLD.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value NATGAS.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value VIX.fs,Daily: uninit reason 9
+0	16:52:37.700	Pip Value AUDUSD,Daily: uninit reason 9
+0	16:52:37.700	Pip Value COFFEE.fs,Daily: uninit reason 9
+0	16:52:37.824	Custom indicator Pip Value EURUSD,Daily: removed
+0	16:52:37.824	Custom indicator Pip Value AUDJPY,Daily: removed
+0	16:52:37.855	Custom indicator Pip Value CHINA50.fs,Daily: removed
+0	16:52:37.871	Custom indicator Pip Value AUS200,Daily: removed
+0	16:52:37.902	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:52:37.902	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:52:37.902	Custom indicator Pip Value SPI200.fs,Daily: removed
+0	16:52:37.918	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:52:37.918	Custom indicator Pip Value DJ30.fs,Daily: removed
+0	16:52:37.949	Custom indicator Pip Value NAS100.fs,Daily: removed
+0	16:52:37.965	Custom indicator Pip Value BRENT.fs,Daily: removed
+0	16:52:37.980	Custom indicator Pip Value GOLD.fs,Daily: removed
+0	16:52:37.996	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:52:38.012	Custom indicator Pip Value NATGAS.fs,Daily: removed
+0	16:52:38.027	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:52:38.027	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:52:38.027	Custom indicator Pip Value VIX.fs,Daily: removed
+0	16:52:38.027	Custom indicator Pip Value AUDUSD,Daily: removed
+0	16:52:38.043	Custom indicator Pip Value COFFEE.fs,Daily: removed
+0	16:52:42.987	Custom indicator Market\Pip Value EURUSD,Daily: loaded successfully
+0	16:52:43.020	Pip Value EURUSD,Daily: initialized
+0	16:52:43.050	Custom indicator Market\Pip Value AUDJPY,Daily: loaded successfully
+0	16:52:43.082	Pip Value AUDJPY,Daily: initialized
+0	16:52:43.129	Custom indicator Market\Pip Value CHINA50.fs,Daily: loaded successfully
+0	16:52:43.144	Pip Value CHINA50.fs,Daily: initialized
+0	16:52:43.191	Custom indicator Market\Pip Value AUS200,Daily: loaded successfully
+0	16:52:43.206	Pip Value AUS200,Daily: initialized
+0	16:52:43.253	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:52:43.269	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:52:43.285	Custom indicator Market\Pip Value SPI200.fs,Daily: loaded successfully
+0	16:52:43.316	Pip Value SPI200.fs,Daily: initialized
+0	16:52:43.331	Pip Value SPI200.fs,Daily: initialized
+0	16:52:43.347	Pip Value SPI200.fs,Daily: initialized
+0	16:52:43.394	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:52:43.394	Custom indicator Market\Pip Value DJ30.fs,Daily: loaded successfully
+0	16:52:43.425	Pip Value DJ30.fs,Daily: initialized
+0	16:52:43.441	Pip Value DJ30.fs,Daily: initialized
+0	16:52:43.488	Custom indicator Market\Pip Value NAS100.fs,Daily: loaded successfully
+0	16:52:43.504	Pip Value NAS100.fs,Daily: initialized
+0	16:52:43.550	Custom indicator Market\Pip Value BRENT.fs,Daily: loaded successfully
+0	16:52:43.566	Pip Value BRENT.fs,Daily: initialized
+0	16:52:43.613	Custom indicator Market\Pip Value GOLD.fs,Daily: loaded successfully
+0	16:52:43.646	Pip Value GOLD.fs,Daily: initialized
+0	16:52:43.687	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:52:43.703	Custom indicator Market\Pip Value NATGAS.fs,Daily: loaded successfully
+0	16:52:43.719	Pip Value NATGAS.fs,Daily: initialized
+0	16:52:43.734	Pip Value NATGAS.fs,Daily: initialized
+0	16:52:43.781	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:52:43.797	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:52:43.813	Custom indicator Market\Pip Value VIX.fs,Daily: loaded successfully
+0	16:52:43.828	Pip Value VIX.fs,Daily: initialized
+0	16:52:43.843	Pip Value VIX.fs,Daily: initialized
+0	16:52:43.860	Pip Value VIX.fs,Daily: initialized
+0	16:52:43.890	Custom indicator Market\Pip Value AUDUSD,Daily: loaded successfully
+0	16:52:43.953	Pip Value AUDUSD,Daily: initialized
+0	16:52:43.995	Custom indicator Market\Pip Value COFFEE.fs,Daily: loaded successfully
+0	16:52:44.011	Pip Value COFFEE.fs,Daily: initialized
+0	21:45:52.797	Pip Value COFFEE.fs,Daily: uninit reason 3
+0	21:45:52.797	Pip Value COFFEE.fs,H4: initialized
+0	21:45:54.383	Pip Value COFFEE.fs,H4: uninit reason 3
+0	21:45:54.383	Pip Value COFFEE.fs,Daily: initialized
+0	22:28:25.157	Expert interest\Buy COFFEE.fs,Daily: loaded successfully
+0	22:28:26.837	Expert Buy COFFEE.fs,Daily: removed
+0	22:39:44.184	Expert interest\Sell CHINA50.fs,H1: loaded successfully
+0	22:40:19.068	Expert Sell CHINA50.fs,H1: removed
+0	22:40:31.865	Expert interest\Sell CHINA50.fs,H1: loaded successfully
+0	22:40:37.322	Expert Sell CHINA50.fs,H1: removed
+0	22:58:47.845	Expert interest\Sell COFFEE.fs,H1: loaded successfully
+0	22:58:51.296	Expert Sell COFFEE.fs,H1: removed
+0	23:03:32.416	Expert interest\Buy COFFEE.fs,H1: loaded successfully
+0	23:03:40.399	Expert Buy COFFEE.fs,H1: removed
+0	23:04:23.860	Expert interest\BuyAndSell COFFEE.fs,H1: loaded successfully
+0	23:04:29.119	Expert BuyAndSell COFFEE.fs,H1: removed
+0	23:09:40.218	Expert interest\BuyAndSell COFFEE.fs,H1: loaded successfully
+0	23:09:44.715	BuyAndSell COFFEE.fs,H1 inputs: buyGap=1000; buyLotSize=0.01; buyLimitNumber=1; buyTakeProfit=1100; sellGap=1000; sellLotSize=0.01; sellLimitNumber=1; sellTakeProfit=1100; 
+0	23:09:44.730	BuyAndSell COFFEE.fs,H1: initialized
+0	23:10:35.985	BuyAndSell COFFEE.fs,H1: uninit reason 4
+0	23:10:36.001	Expert BuyAndSell COFFEE.fs,H1: removed
+0	23:10:39.945	Expert interest\BuyAndSell COFFEE.fs,H1: loaded successfully
+0	23:10:42.249	BuyAndSell COFFEE.fs,H1 inputs: buyGap=1000; buyLotSize=0.01; buyLimitNumber=1; buyTakeProfit=1100; sellGap=1000; sellLotSize=0.01; sellLimitNumber=1; sellTakeProfit=1100; 
+0	23:10:42.264	BuyAndSell COFFEE.fs,H1: Init current symbol : COFFEE.fs
+0	23:10:42.280	BuyAndSell COFFEE.fs,H1: initialized
+0	23:11:14.375	BuyAndSell COFFEE.fs,H1: uninit reason 4
+0	23:11:14.392	Expert BuyAndSell COFFEE.fs,H1: removed
+0	23:14:39.878	Expert interest\BuyAndSell COFFEE.fs,H1: loaded successfully
+0	23:14:41.290	BuyAndSell COFFEE.fs,H1 inputs: buyGap=1000; buyLotSize=0.01; buyLimitNumber=1; buyTakeProfit=1100; sellGap=1000; sellLotSize=0.01; sellLimitNumber=1; sellTakeProfit=1100; 
+0	23:14:41.306	BuyAndSell COFFEE.fs,H1: Init current symbol : COFFEE.fs
+0	23:14:41.321	BuyAndSell COFFEE.fs,H1: initialized
+0	23:14:42.368	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:43.384	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:44.352	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:45.376	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:46.415	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:47.352	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:48.368	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:49.418	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:50.386	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:51.496	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:52.979	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:53.623	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:54.794	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:55.742	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:56.820	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:57.382	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:14:57.898	BuyAndSell COFFEE.fs,H1: uninit reason 4
+0	23:14:57.914	Expert BuyAndSell COFFEE.fs,H1: removed
+0	23:15:07.587	Expert interest\BuyAndSell COFFEE.fs,H1: loaded successfully
+0	23:15:08.961	BuyAndSell COFFEE.fs,H1 inputs: buyGap=1000; buyLotSize=0.01; buyLimitNumber=1; buyTakeProfit=1100; sellGap=1000; sellLotSize=0.01; sellLimitNumber=1; sellTakeProfit=1100; 
+0	23:15:08.977	BuyAndSell COFFEE.fs,H1: Init current symbol : COFFEE.fs
+0	23:15:08.977	BuyAndSell COFFEE.fs,H1: initialized
+0	23:15:12.003	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:15.084	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:18.025	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:21.003	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:24.032	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:27.008	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:30.022	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:33.045	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:36.022	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:39.036	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:42.145	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:45.067	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:48.075	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:51.253	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:54.231	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:15:57.090	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:00.105	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:03.104	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:06.126	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:06.783	Automated trading enabled
+0	23:16:09.135	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:12.117	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:15.123	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:18.192	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:21.619	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:24.248	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:27.123	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:30.135	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:32.993	Automated trading disabled
+0	23:16:33.350	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:34.928	Automated trading enabled
+0	23:16:36.319	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:38.910	BuyAndSell COFFEE.fs,H1 inputs: buyGap=1000; buyLotSize=0.01; buyLimitNumber=1; buyTakeProfit=1100; sellGap=1000; sellLotSize=0.01; sellLimitNumber=1; sellTakeProfit=1100; 
+0	23:16:39.220	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:42.159	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:45.155	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:47.546	BuyAndSell COFFEE.fs,H1: uninit reason 4
+0	23:16:47.562	Expert BuyAndSell COFFEE.fs,H1: removed
+0	23:16:49.370	Expert interest\BuyAndSell COFFEE.fs,H1: loaded successfully
+0	23:16:51.154	BuyAndSell COFFEE.fs,H1 inputs: buyGap=1000; buyLotSize=0.01; buyLimitNumber=1; buyTakeProfit=1100; sellGap=1000; sellLotSize=0.01; sellLimitNumber=1; sellTakeProfit=1100; 
+0	23:16:51.170	BuyAndSell COFFEE.fs,H1: Init current symbol : COFFEE.fs
+0	23:16:51.186	BuyAndSell COFFEE.fs,H1: initialized
+0	23:16:54.181	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:16:57.186	BuyAndSell COFFEE.fs,H1: current symbol : COFFEE.fs
+0	23:17:00.041	BuyAndSell COFFEE.fs,H1: uninit reason 4
+0	23:17:00.056	Expert BuyAndSell COFFEE.fs,H1: removed
+0	23:26:40.183	Expert interest\Sell COFFEE.fs,H1: loaded successfully
+0	23:26:44.517	Expert Sell COFFEE.fs,H1: removed

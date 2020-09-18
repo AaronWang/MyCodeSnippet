@@ -32,7 +32,11 @@ void OnDeinit(const int reason)
 void OnTick()
   {
 //---
-   Files newFiles("testData.csv");
-
+//   Files newFiles("testData.csv");
+Sleep(3000);
+   OnTimer();
   }
 //+------------------------------------------------------------------+
+void OnTimer(){
+Print("Init current symbol: " +Symbol());
+}
